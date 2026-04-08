@@ -1,0 +1,99 @@
+# Career-Ops Profile -- Dual-Track (Senior Frontend Engineer + IT Consultant)
+#
+# Luann de Carvalho Sapucaia
+# Updated: April 2026
+#
+# Optimizing for TWO tracks: employed senior/staff frontend roles AND
+# independent consulting engagements through Batista Consulting.
+
+candidate:
+  full_name: "Luann de Carvalho Sapucaia"
+  email: "luannsapucaia.dev@gmail.com"
+  phone: "+49-172-5407273"
+  location: "Berlin, Germany"
+  linkedin: "linkedin.com/in/sapucaialuann"
+  github: "github.com/sapucaialuann"
+  consultancy: "batistaconsulting.eu"
+
+target_roles:
+  primary:
+    - "Senior Frontend Engineer"
+    - "Staff Frontend Engineer"
+    - "Fullstack Engineer (React + Node.js)"
+  archetypes:
+    - name: "Senior Frontend Engineer"
+      level: "Senior/Staff"
+      fit: "primary"
+      track: "engineering"
+      sell_when: "JD emphasizes React/TypeScript at scale, design-system ownership, performance-critical UI, component architecture, test automation"
+    - name: "Fullstack Engineer"
+      level: "Senior"
+      fit: "primary"
+      track: "engineering"
+      sell_when: "JD wants React + Node.js/Express, API integration, CI/CD ownership, end-to-end feature delivery"
+    - name: "IT Consultant / Technical Advisor"
+      level: "Senior"
+      fit: "primary"
+      track: "consulting"
+      sell_when: "Engagement requires technical audits, digitalization strategy, custom software delivery for SMEs, or temporary CTO/co-founder capacity for early-stage startups"
+    - name: "Engineering Lead / Tech Lead"
+      level: "Lead"
+      fit: "secondary"
+      track: "engineering"
+      sell_when: "JD wants hands-on technical leadership, mentoring, frontend architecture decisions, and dev process improvements -- not pure people management"
+    - name: "DevRel / Developer Experience Engineer"
+      level: "Senior"
+      fit: "adjacent"
+      track: "hybrid"
+      sell_when: "JD wants someone who ships demos, writes docs, and can present to technical audiences -- trilingual communication becomes a differentiator"
+
+narrative:
+  headline: "Senior frontend engineer and independent IT consultant -- 200M-user ticketing platforms, enterprise payment portals, and oil & gas dashboards across three countries"
+  exit_story: "7+ years shipping production frontends across financial services, ticketing, and energy in Brazil, Portugal, and Germany. Now running Batista Consulting in Berlin -- technical audits, custom dev, and a temporary co-founder model for AI-first startups. Open to the right full-time senior/staff role or high-value consulting engagements where frontend craft, automation instincts, and cross-cultural fluency compound."
+  superpowers:
+    - "Ship high-traffic React/TypeScript interfaces end-to-end (200M+ users at Ingresso.com)"
+    - "Automate tedious workflows -- 90% data-entry reduction at a Lisbon bank via Puppeteer scripting"
+    - "Build internal tooling that saves real money ($1.5K/week in Azure costs at Radix)"
+    - "Run a consultancy -- scoping, pricing, delivery, and client management across concurrent engagements"
+    - "Operate as a temporary co-founder for early-stage startups needing hands-on technical leadership"
+    - "Work across cultures and languages -- shipped production software in Brazil, Portugal, and Germany"
+  proof_points:
+    - name: "Rock in Rio checkout (Ingresso.com)"
+      url: ~
+      hero_metric: "Mobile-first checkout for 200M+ annual users, high-performance event ticketing"
+      track: "engineering"
+    - name: "Enterprise payment portal (Prime IT / bank project)"
+      url: ~
+      hero_metric: "Led SPA frontend, 90% reduction in manual data-entry via automation"
+      track: "engineering"
+    - name: "Oil & gas telemetry dashboards (Radix Engineering)"
+      url: ~
+      hero_metric: "Azure dashboards cutting $1.5K/week in resource costs"
+      track: "engineering"
+    - name: "Batista Consulting"
+      url: "https://batistaconsulting.eu"
+      hero_metric: "Solo IT consultancy serving European and US SMEs -- technical audits, custom dev, digitalization"
+      track: "consulting"
+
+compensation:
+  target_range: "EUR 75K-100K"
+  currency: "EUR"
+  minimum: "EUR 65K"
+  location_flexibility: "Remote within EU; on-site in Berlin negotiable"
+
+  alternate_ranges:
+    - track: "consulting"
+      target_range: "EUR 70-100/hour"
+      minimum: "EUR 60/hour"
+      note: "Consulting engagements through Batista Consulting. Project-based pricing also available."
+    - track: "hybrid"
+      target_range: "EUR 70K-95K"
+      minimum: "EUR 60K"
+      note: "DevRel or forward-deployed roles -- priced between pure engineering and consulting day rates."
+
+location:
+  country: "Germany"
+  city: "Berlin"
+  timezone: "CET/CEST"
+  visa_status: "EU Blue Card holder, no sponsorship needed"
+  onsite_availability: "Berlin preferred; open to occasional travel within EU"

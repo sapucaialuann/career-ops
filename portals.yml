@@ -1,0 +1,427 @@
+# Portal Scanner Configuration
+# Used by /career-ops scan to discover new offers automatically.
+#
+# Profile: Senior Frontend / Fullstack Engineer + IT Consultant
+# Updated: April 2026
+#
+# Strategy (3 levels):
+#   1. Playwright → careers_url of each company (real-time, reliable)
+#   2. Greenhouse API → structured JSON (fast, Greenhouse-only)
+#   3. WebSearch with site: filters (broad discovery, may be stale)
+#
+# IMPORTANT: Each company in tracked_companies MUST have careers_url.
+
+# -- Title filter --
+# At least 1 positive must match AND 0 negatives must match (case-insensitive).
+
+title_filter:
+  positive:
+    # -- Frontend / UI roles --
+    - "Frontend"
+    - "Front-end"
+    - "Front End"
+    - "UI Engineer"
+    - "Web Engineer"
+    - "Web Developer"
+    - "Frontend Architect"
+    - "Design System"
+    - "React"
+    - "TypeScript"
+    # -- Fullstack roles --
+    - "Fullstack"
+    - "Full-stack"
+    - "Full Stack"
+    # -- Platform / DX roles --
+    - "Platform Engineer"
+    - "Developer Experience"
+    - "DX Engineer"
+    - "Internal Tools"
+    # -- Consulting / client-facing technical roles --
+    - "Solutions Engineer"
+    - "Solutions Architect"
+    - "Technical Consultant"
+    - "IT Consultant"
+    - "Customer Engineer"
+    - "Implementation Engineer"
+    # -- Automation roles --
+    - "Automation"
+    - "QA Automation"
+    - "Test Automation"
+    # -- Leadership roles (hands-on) --
+    - "Tech Lead"
+    - "Engineering Lead"
+    - "Engineering Manager"
+    # -- DevRel / hybrid --
+    - "Developer Relations"
+    - "Developer Advocate"
+    - "DevRel"
+  negative:
+    - "Junior"
+    - "Intern"
+    - "Werkstudent"
+    - "iOS"
+    - "Android"
+    - "Swift"
+    - "Kotlin"
+    - "Flutter"
+    - "React Native"
+    - "PHP"
+    - "Ruby"
+    - "Java "
+    - "Embedded"
+    - "Firmware"
+    - "FPGA"
+    - "ASIC"
+    - "Blockchain"
+    - "Web3"
+    - "Crypto"
+    - "Salesforce Admin"
+    - "SAP "
+    - "Oracle EBS"
+    - "Mainframe"
+    - "COBOL"
+    - "Data Scientist"
+    - "Data Engineer"
+    - "ML Engineer"
+    - "Machine Learning"
+    - "Backend Engineer"
+    - "DevOps Engineer"
+  seniority_boost:
+    - "Senior"
+    - "Staff"
+    - "Principal"
+    - "Lead"
+    - "Head"
+
+# -- Search queries --
+# Each query triggers a WebSearch. Use site: to filter by portal.
+
+search_queries:
+
+  # -- Ashby — Frontend / Fullstack --
+  - name: Ashby — Senior Frontend
+    query: 'site:jobs.ashbyhq.com "Senior Frontend Engineer" OR "Staff Frontend" OR "Frontend Architect" remote'
+    enabled: true
+
+  - name: Ashby — Fullstack
+    query: 'site:jobs.ashbyhq.com "Senior Fullstack" OR "Full Stack Engineer" React TypeScript remote'
+    enabled: true
+
+  - name: Ashby — Solutions Engineer
+    query: 'site:jobs.ashbyhq.com "Solutions Engineer" OR "Customer Engineer" OR "Implementation Engineer" remote'
+    enabled: true
+
+  - name: Ashby — Design Systems & DX
+    query: 'site:jobs.ashbyhq.com "Design System" OR "Developer Experience" OR "UI Engineer" OR "DX Engineer" remote'
+    enabled: true
+
+  # -- Greenhouse — Frontend / Fullstack --
+  - name: Greenhouse — Senior Frontend
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Senior Frontend" OR "Staff Frontend" OR "Frontend Architect" React remote'
+    enabled: true
+
+  - name: Greenhouse — Fullstack
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Senior Fullstack" OR "Full Stack" React TypeScript remote'
+    enabled: true
+
+  - name: Greenhouse — Solutions Engineer
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Solutions Engineer" OR "Implementation Engineer" remote'
+    enabled: true
+
+  - name: Greenhouse — Design Systems & DX
+    query: 'site:job-boards.greenhouse.io "Design System" OR "Developer Experience" OR "UI Engineer" OR "Platform Engineer" frontend remote'
+    enabled: true
+
+  # -- Lever — Frontend / Fullstack --
+  - name: Lever — Senior Frontend
+    query: 'site:jobs.lever.co "Senior Frontend" OR "Staff Frontend" OR "Fullstack" React TypeScript remote'
+    enabled: true
+
+  - name: Lever — Solutions & Consulting
+    query: 'site:jobs.lever.co "Solutions Engineer" OR "Technical Consultant" OR "Customer Engineer" remote'
+    enabled: true
+
+  # -- Wellfound (startups) --
+  - name: Wellfound — Frontend
+    query: 'site:wellfound.com "Senior Frontend" OR "Fullstack" React TypeScript remote'
+    enabled: true
+
+  # -- Workable --
+  - name: Workable — Frontend & Fullstack
+    query: 'site:apply.workable.com "Senior Frontend" OR "Fullstack" OR "UI Engineer" React remote'
+    enabled: true
+
+  # -- Berlin-specific --
+  - name: Berlin — Frontend
+    query: '"Senior Frontend Engineer" OR "Staff Frontend" React Berlin'
+    enabled: true
+
+  - name: Berlin — Fullstack
+    query: '"Senior Fullstack Engineer" OR "Full Stack" React Node.js Berlin'
+    enabled: true
+
+  # -- Automation / QA Automation --
+  - name: Automation Engineer — All portals
+    query: '"Automation Engineer" OR "QA Automation Lead" OR "Test Automation" Cypress React remote senior'
+    enabled: true
+
+  # -- Engineering Lead --
+  - name: Engineering Lead — Frontend
+    query: '"Engineering Lead" OR "Tech Lead" frontend React remote Berlin'
+    enabled: true
+
+  # -- RemoteFront (aggregator) --
+  - name: RemoteFront — Frontend & Fullstack
+    query: 'site:remotefront.com "Senior Frontend" OR "Fullstack" OR "React" OR "TypeScript" remote'
+    enabled: true
+
+# -- Tracked companies --
+# Companies whose career pages are checked directly.
+# Focused on companies with strong frontend/fullstack teams,
+# EU-friendly hiring, and Berlin presence where possible.
+
+tracked_companies:
+
+  # ============================================================
+  # BERLIN — local, no relocation needed
+  # ============================================================
+
+  - name: Contentful
+    careers_url: https://job-boards.greenhouse.io/contentful
+    api: https://boards-api.greenhouse.io/v1/boards/contentful/jobs
+    notes: "Berlin / Denver. Headless CMS. Large frontend org, design system team."
+    enabled: true
+
+  - name: GetYourGuide
+    careers_url: https://job-boards.greenhouse.io/getyourguide
+    api: https://boards-api.greenhouse.io/v1/boards/getyourguide/jobs
+    notes: "Berlin. Travel marketplace. Strong frontend and web platform teams."
+    enabled: true
+
+  - name: HelloFresh
+    careers_url: https://job-boards.greenhouse.io/hellofresh
+    api: https://boards-api.greenhouse.io/v1/boards/hellofresh/jobs
+    notes: "Berlin. Meal kit unicorn. Large engineering org, frontend squads."
+    enabled: true
+
+  - name: N26
+    careers_url: https://job-boards.greenhouse.io/n26
+    api: https://boards-api.greenhouse.io/v1/boards/n26/jobs
+    notes: "Berlin / Barcelona. Mobile bank. React web platform."
+    enabled: true
+
+  - name: Trade Republic
+    careers_url: https://job-boards.greenhouse.io/traderepublicbank
+    api: https://boards-api.greenhouse.io/v1/boards/traderepublicbank/jobs
+    notes: "Berlin. Neobroker. Web platform and frontend roles."
+    enabled: true
+
+  - name: SumUp
+    careers_url: https://job-boards.greenhouse.io/sumup
+    api: https://boards-api.greenhouse.io/v1/boards/sumup/jobs
+    notes: "Berlin / London. Payments fintech. EU + LATAM hiring."
+    enabled: true
+
+  - name: n8n
+    careers_url: https://jobs.ashbyhq.com/n8n
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/n8n'
+    notes: "Berlin + remote EU. Workflow automation. React/TypeScript/Vue frontend."
+    enabled: true
+
+  - name: Langfuse
+    careers_url: https://langfuse.com/careers
+    scan_method: websearch
+    scan_query: '"langfuse" careers OR jobs "engineer" OR "frontend"'
+    notes: "Berlin. LLMOps. Small team, fullstack opportunities."
+    enabled: true
+
+  - name: Parloa
+    careers_url: https://job-boards.eu.greenhouse.io/parloa
+    api: https://boards-api.greenhouse.io/v1/boards/parloa/jobs
+    notes: "Berlin. Conversational AI. Frontend and solutions engineering roles."
+    enabled: true
+
+  - name: Helsing
+    careers_url: https://job-boards.greenhouse.io/helsing
+    api: https://boards-api.greenhouse.io/v1/boards/helsing/jobs
+    notes: "Berlin / Munich / London. Defence AI. Frontend platform roles."
+    enabled: true
+
+  - name: Cognigy
+    careers_url: https://careers.cognigy.com
+    scan_method: websearch
+    scan_query: '"cognigy" careers "Frontend" OR "Fullstack" OR "Solutions"'
+    notes: "Dusseldorf / Berlin. Conversational AI. React frontend."
+    enabled: true
+
+  # ============================================================
+  # REMOTE EU — no relocation, timezone-compatible
+  # ============================================================
+
+  - name: Vercel
+    careers_url: https://job-boards.greenhouse.io/vercel
+    api: https://boards-api.greenhouse.io/v1/boards/vercel/jobs
+    notes: "Remote. Next.js, v0.dev. Frontend infrastructure company."
+    enabled: true
+
+  - name: Retool
+    careers_url: https://retool.com/careers
+    scan_method: websearch
+    scan_query: 'site:retool.com/careers "Frontend" OR "Fullstack" OR "Solutions"'
+    notes: "London / Remote. Internal tools platform. React-heavy."
+    enabled: true
+
+  - name: Airtable
+    careers_url: https://job-boards.greenhouse.io/airtable
+    api: https://boards-api.greenhouse.io/v1/boards/airtable/jobs
+    notes: "Remote. No-code platform. Large frontend org."
+    enabled: true
+
+  - name: Attio
+    careers_url: https://jobs.ashbyhq.com/attio
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/attio'
+    notes: "Remote EU. AI-native CRM. Series B. React/TypeScript."
+    enabled: true
+
+  - name: Tinybird
+    careers_url: https://jobs.ashbyhq.com/tinybird
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/tinybird'
+    notes: "Remote EU. Real-time data platform. Frontend and DX roles."
+    enabled: true
+
+  - name: Lovable
+    careers_url: https://jobs.ashbyhq.com/lovable
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/lovable'
+    notes: "Stockholm / Remote. AI app builder (text-to-app). 80+ roles."
+    enabled: true
+
+  - name: Zapier
+    careers_url: https://jobs.ashbyhq.com/zapier
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/zapier'
+    notes: "Remote-first. Automation platform. React frontend."
+    enabled: true
+
+  - name: Make.com (Celonis)
+    careers_url: https://www.make.com/en/careers
+    scan_method: websearch
+    scan_query: 'site:make.com/en/careers OR "make.com" "frontend" OR "fullstack" site:jobs.ashbyhq.com'
+    notes: "Prague / Remote. Automation platform. React frontend."
+    enabled: true
+
+  - name: Linear
+    careers_url: https://linear.app/careers
+    scan_method: websearch
+    scan_query: 'site:linear.app/careers OR "linear" "frontend" site:jobs.ashbyhq.com'
+    notes: "Remote. Project management tool. Known for exceptional frontend craft."
+    enabled: true
+
+  - name: Notion
+    careers_url: https://job-boards.greenhouse.io/notion
+    api: https://boards-api.greenhouse.io/v1/boards/notion/jobs
+    notes: "Remote / SF. Productivity platform. Frontend-heavy product."
+    enabled: true
+
+  # ============================================================
+  # EUROPEAN TECH — may require occasional travel
+  # ============================================================
+
+  - name: Qonto
+    careers_url: https://jobs.lever.co/qonto
+    notes: "Paris / Berlin / Barcelona. SMB neobank. React frontend."
+    enabled: true
+
+  - name: Factorial
+    careers_url: https://job-boards.greenhouse.io/factorial
+    scan_method: websearch
+    scan_query: 'site:jobs.greenhouse.io/factorial'
+    notes: "Barcelona. HR SaaS unicorn. Frontend roles."
+    enabled: true
+
+  - name: Travelperk
+    careers_url: https://jobs.ashbyhq.com/travelperk
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/travelperk'
+    notes: "Barcelona. Business travel unicorn. React/TypeScript."
+    enabled: true
+
+  - name: Spotify
+    careers_url: https://jobs.lever.co/spotify
+    notes: "Stockholm / London. Audio platform. Large frontend org, design systems."
+    enabled: true
+
+  - name: Vinted
+    careers_url: https://jobs.lever.co/vinted
+    notes: "Vilnius / Berlin. C2C marketplace unicorn. Frontend squads."
+    enabled: true
+
+  - name: Intercom
+    careers_url: https://job-boards.greenhouse.io/intercom
+    api: https://boards-api.greenhouse.io/v1/boards/intercom/jobs
+    notes: "Dublin / London. Messenger platform. React frontend, design system."
+    enabled: true
+
+  - name: Amplemarket
+    careers_url: https://job-boards.greenhouse.io/amplemarket
+    api: https://boards-api.greenhouse.io/v1/boards/amplemarket/jobs
+    notes: "Lisbon / Remote. AI sales platform. Portuguese-speaking team."
+    enabled: true
+
+  - name: Talkdesk
+    careers_url: https://www.talkdesk.com/careers
+    scan_method: websearch
+    scan_query: 'site:talkdesk.com/careers "Frontend" OR "Fullstack" OR "React"'
+    notes: "Lisbon / Remote. Contact center platform. Portuguese-speaking team."
+    enabled: true
+
+  - name: DeepL
+    careers_url: https://jobs.ashbyhq.com/DeepL
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/DeepL'
+    notes: "Cologne. Translation AI. Large engineering org, frontend roles."
+    enabled: true
+
+  - name: Pigment
+    careers_url: https://jobs.lever.co/pigment
+    notes: "Paris / London. AI-powered FP&A. React frontend."
+    enabled: true
+
+  - name: Synthesia
+    careers_url: https://jobs.ashbyhq.com/synthesia
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/synthesia'
+    notes: "London. AI video generation. Frontend and fullstack roles."
+    enabled: true
+
+  - name: Mistral AI
+    careers_url: https://jobs.lever.co/mistral
+    notes: "Paris. European AI lab. Frontend for developer tools and playground."
+    enabled: true
+
+  # ============================================================
+  # LATAM-CONNECTED — Portuguese as differentiator
+  # ============================================================
+
+  - name: VTEX
+    careers_url: https://careers.vtex.com
+    scan_method: websearch
+    scan_query: 'site:careers.vtex.com "Frontend" OR "Fullstack" OR "React"'
+    notes: "Brazilian e-commerce platform with London/EU offices. React/TypeScript."
+    enabled: true
+
+  - name: Remote.com
+    careers_url: https://job-boards.greenhouse.io/remotecom
+    api: https://boards-api.greenhouse.io/v1/boards/remotecom/jobs
+    notes: "Remote-first. HR/payroll platform. Global team, LATAM + EU presence."
+    enabled: true
+
+  - name: Deel
+    careers_url: https://jobs.ashbyhq.com/Deel
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/Deel "Frontend" OR "Fullstack"'
+    notes: "Remote. Global payroll/HR. Fast-growing frontend org."
+    enabled: true
