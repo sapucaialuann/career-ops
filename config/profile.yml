@@ -10,7 +10,7 @@ candidate:
   full_name: "Luann de Carvalho Sapucaia"
   email: "luannsapucaia.dev@gmail.com"
   phone: "+49-172-5407273"
-  location: "Berlin, Germany"
+  location: "Barcelona, Spain"
   linkedin: "linkedin.com/in/sapucaialuann"
   github: "github.com/sapucaialuann"
   consultancy: "batistaconsulting.eu"
@@ -79,7 +79,7 @@ compensation:
   target_range: "EUR 75K-100K"
   currency: "EUR"
   minimum: "EUR 65K"
-  location_flexibility: "Remote within EU; on-site in Berlin negotiable"
+  location_flexibility: "Remote within EU; on-site in Barcelona negotiable"
 
   alternate_ranges:
     - track: "consulting"
@@ -92,8 +92,8 @@ compensation:
       note: "DevRel or forward-deployed roles -- priced between pure engineering and consulting day rates."
 
 location:
-  country: "Germany"
-  city: "Berlin"
+  country: "Spain"
+  city: "Barcelona"
   timezone: "CET/CEST"
   visa_status: "EU Blue Card holder, no sponsorship needed"
-  onsite_availability: "Berlin preferred; open to occasional travel within EU"
+  onsite_availability: "Barcelona preferred; open to occasional travel within EU"

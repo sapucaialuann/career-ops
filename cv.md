@@ -1,6 +1,6 @@
 # CV -- Luann de Carvalho Sapucaia
 
-**Location:** Berlin, Germany
+**Location:** Berlin, Germany (relocating to Barcelona)
 **Email:** luannsapucaia.dev@gmail.com
 **Phone:** +49 172 5407273
 **LinkedIn:** linkedin.com/in/sapucaialuann
@@ -70,10 +70,11 @@ Senior frontend engineer and independent IT consultant with 7+ years shipping pr
 
 ## Skills
 
-- **Languages:** JavaScript, TypeScript, HTML5, CSS3, C#, SQL
-- **Frontend:** React, Next.js, Zustand, Material-UI, Styled-components, Tailwind, SCSS/CSS Modules, Angular, Cypress, Jest, Storybook
-- **Backend/Infra:** Node.js, Express, .NET, Docker, Azure DevOps, Vercel, MongoDB, SQL Server, PostgreSQL
-- **Tools & Practices:** Git, GitFlow, Figma, Cursor, Scrum, Kanban, CI/CD, Puppeteer, Postman, GraphQL, AI-assisted development
+- **Languages:** JavaScript, TypeScript, Python, HTML5, CSS3, C#, SQL
+- **Frontend:** React, Next.js, Zustand, Redux, Material-UI, Styled-components, Tailwind, SCSS/CSS Modules, Angular, Cypress, Playwright, Jest, Storybook
+- **Backend/Infra:** Node.js, Express, .NET, Docker, Azure DevOps, Jenkins, Webpack, Vercel, MongoDB, SQL Server, PostgreSQL
+- **Cloud:** AWS (Cloud Practitioner certified), Azure
+- **Tools & Practices:** Git, GitFlow, npm/yarn, Figma, Cursor, Scrum, Kanban, CI/CD, Puppeteer, Postman, GraphQL, AI-assisted development
 
 ## Languages
 

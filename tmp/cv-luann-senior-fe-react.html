@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Luann de Carvalho Sapucaia -- CV</title>
+<style>
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin-ext.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin-ext.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    line-height: 1.5;
+    color: #1a1a2e;
+    background: #ffffff;
+    padding: 0; margin: 0;
+  }
+  .page { width: 100%; max-width: 210mm; margin: 0 auto; padding: 2px 0; }
+
+  .header { margin-bottom: 20px; }
+  .header h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 28px; font-weight: 700;
+    color: #1a1a2e; letter-spacing: -0.02em;
+    margin-bottom: 6px; line-height: 1.1;
+  }
+  .header-gradient {
+    height: 2px;
+    background: linear-gradient(to right, hsl(187,74%,32%), hsl(270,70%,45%));
+    border-radius: 1px; margin-bottom: 10px;
+  }
+  .contact-row {
+    display: flex; flex-wrap: wrap; gap: 8px 14px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10.5px; line-height: 1.4; color: #555;
+  }
+  .contact-row a { color: #555; text-decoration: none; }
+  .contact-row .separator { color: #ccc; }
+
+  .section { margin-bottom: 18px; }
+  .section-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 12px; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.06em;
+    color: hsl(187,74%,32%);
+    border-bottom: 1.5px solid #e2e2e2;
+    padding-bottom: 4px; margin-bottom: 10px; line-height: 1.2;
+  }
+  .summary-text { font-size: 11px; line-height: 1.7; color: #2f2f2f; }
+  a { white-space: nowrap; }
+
+  .competencies-grid { display: flex; flex-wrap: wrap; gap: 8px; }
+  .competency-tag {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10px; font-weight: 500;
+    color: hsl(187,74%,28%);
+    background: hsl(187,40%,95%);
+    padding: 4px 10px; border-radius: 3px;
+    border: 1px solid hsl(187,40%,88%);
+  }
+
+  .job { margin-bottom: 14px; }
+  .job-header {
+    display: flex; justify-content: space-between;
+    align-items: baseline; gap: 12px; margin-bottom: 4px;
+  }
+  .job-company {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 12.5px; font-weight: 600;
+    color: hsl(270,70%,45%);
+  }
+  .job-period { font-size: 10.5px; color: #777; white-space: nowrap; }
+  .job-role { font-size: 11px; font-weight: 600; color: #333; margin-bottom: 6px; }
+  .job-location { font-size: 10px; color: #888; }
+  .job ul { padding-left: 18px; margin-top: 6px; }
+  .job li { font-size: 10.5px; line-height: 1.6; color: #333; margin-bottom: 4px; }
+  .job li strong { font-weight: 600; }
+
+  .project { margin-bottom: 12px; }
+  .project-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 11.5px; font-weight: 600;
+    color: hsl(270,70%,45%);
+  }
+  .project-badge {
+    font-size: 9px; font-weight: 500;
+    color: hsl(187,74%,32%);
+    background: hsl(187,40%,95%);
+    padding: 1px 6px; border-radius: 2px; margin-left: 6px;
+  }
+  .project-desc { font-size: 10.5px; color: #444; margin-top: 3px; line-height: 1.55; }
+  .project-tech { font-size: 9.5px; color: #888; margin-top: 3px; }
+
+  .edu-item { margin-bottom: 8px; }
+  .edu-header {
+    display: flex; justify-content: space-between;
+    align-items: baseline; gap: 12px;
+  }
+  .edu-title { font-weight: 600; font-size: 11px; color: #333; }
+  .edu-org { color: hsl(270,70%,45%); font-weight: 500; }
+  .edu-year { font-size: 10px; color: #777; white-space: nowrap; }
+  .edu-desc { font-size: 10px; color: #666; margin-top: 2px; line-height: 1.5; }
+
+  .cert-item {
+    display: flex; justify-content: space-between;
+    align-items: baseline; gap: 12px; margin-bottom: 6px;
+  }
+  .cert-title { font-size: 10.5px; font-weight: 500; color: #333; }
+  .cert-org { color: hsl(270,70%,45%); }
+  .cert-year { font-size: 10px; color: #777; white-space: nowrap; }
+
+  .skills-grid { display: flex; flex-wrap: wrap; gap: 6px 14px; }
+  .skill-item { font-size: 10.5px; color: #444; }
+  .skill-category { font-weight: 600; color: #333; font-size: 10.5px; }
+
+  @media print {
+    body { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .page { padding: 0; }
+  }
+  .avoid-break, .job, .project, .edu-item, .cert-item {
+    break-inside: avoid; page-break-inside: avoid;
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <div class="header avoid-break">
+    <h1>Luann de Carvalho Sapucaia</h1>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <span>luannsapucaia.dev@gmail.com</span>
+      <span class="separator">|</span>
+      <a href="https://linkedin.com/in/sapucaialuann">linkedin.com/in/sapucaialuann</a>
+      <span class="separator">|</span>
+      <a href="https://github.com/sapucaialuann">github.com/sapucaialuann</a>
+      <span class="separator">|</span>
+      <span>Berlin, Germany — relocating to Barcelona</span>
+    </div>
+  </div>
+
+  <!-- PROFESSIONAL SUMMARY -->
+  <div class="section avoid-break">
+    <div class="section-title">Professional Summary</div>
+    <div class="summary-text">
+      Senior frontend engineer with 7+ years building and evolving large-scale React applications in production -- from a 200M-user ticketing platform to enterprise SaaS portals and internal tooling. Experienced with GraphQL, styled-components, design systems, and component architecture in brownfield environments. Comfortable working closely with backend engineers to define API contracts, owning day-to-day technical decisions independently, and raising code quality through CI/CD, test automation, and documented component patterns. Based in Berlin; relocating to Barcelona and available for hybrid engagement.
+    </div>
+  </div>
+
+  <!-- CORE COMPETENCIES -->
+  <div class="section">
+    <div class="section-title">Core Competencies</div>
+    <div class="competencies-grid">
+      <span class="competency-tag">React / TypeScript</span>
+      <span class="competency-tag">GraphQL &amp; API Contracts</span>
+      <span class="competency-tag">React Query / SWR</span>
+      <span class="competency-tag">Microfrontend Architecture</span>
+      <span class="competency-tag">styled-components / Design Systems</span>
+      <span class="competency-tag">Frontend Performance &amp; Optimisation</span>
+      <span class="competency-tag">CI/CD &amp; Test Automation</span>
+      <span class="competency-tag">Brownfield Codebase Ownership</span>
+    </div>
+  </div>
+
+  <!-- WORK EXPERIENCE -->
+  <div class="section">
+    <div class="section-title">Work Experience</div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Batista Consulting</span>
+        <span class="job-period">2024 - Present</span>
+      </div>
+      <div class="job-role">Founder / IT Consultant <span class="job-location">-- Berlin, Germany</span></div>
+      <ul>
+        <li>Founded a solo IT consultancy delivering custom React/TypeScript web applications and technical audits for European and US SMEs</li>
+        <li>End-to-end technical ownership across concurrent client engagements -- architecture decisions, development, deployment</li>
+        <li>Embedded as an independent technical lead for early-stage startups, making day-to-day frontend and fullstack decisions without oversight</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">All Insight</span>
+        <span class="job-period">2024 - Present</span>
+      </div>
+      <div class="job-role">IT Consultant <span class="job-location">-- Berlin, Germany</span></div>
+      <ul>
+        <li>Delivered internal web applications for enterprise clients with full ownership from concept to deployment, including API contract definition with backend squads</li>
+        <li>Introduced CI/CD pipelines (Jenkins, Azure DevOps) and Cypress/Jest test automation, reducing manual QA effort across the team</li>
+        <li>Defined reusable component patterns and Storybook documentation to standardise frontend delivery and design consistency</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Prime IT (Bank Project)</span>
+        <span class="job-period">2023 - 2024</span>
+      </div>
+      <div class="job-role">IT Consultant <span class="job-location">-- Lisbon, Portugal</span></div>
+      <ul>
+        <li>Led frontend development for an enterprise SPA payment portal, working closely with backend engineers to define and validate API contracts for complex form workflows</li>
+        <li>Contributed to a shared React component library with styled-components, enforcing UI consistency across the product</li>
+        <li><strong>Reduced manual data-entry by 90%</strong> through Node.js/Puppeteer workflow automation alongside the SPA delivery</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Ingresso.com (Rock in Rio Project)</span>
+        <span class="job-period">2022 - 2023</span>
+      </div>
+      <div class="job-role">Software Engineer <span class="job-location">-- Rio de Janeiro, Brazil</span></div>
+      <ul>
+        <li>Built and maintained React applications for a large-scale event ticketing platform processing <strong>200M+ annual users</strong>, within a modular microfrontend-style component architecture</li>
+        <li>Delivered a high-performance, mobile-first checkout for Rock in Rio -- optimised for load time on low-end devices under peak traffic, with zero downtime</li>
+        <li>Improved test coverage with automated Cypress and Jest flows; mentored junior developers on component design and review standards</li>
+      </ul>
+    </div>
+
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Radix Engineering</span>
+        <span class="job-period">2020 - 2022</span>
+      </div>
+      <div class="job-role">Software Developer <span class="job-location">-- Rio de Janeiro, Brazil</span></div>
+      <ul>
+        <li>Developed real-time telemetry dashboards and data visualisation interfaces for oil &amp; gas operations</li>
+        <li>Optimised Azure infrastructure, cutting resource costs by $1.5K/week through dashboard and pipeline redesign</li>
+        <li>Mentored two junior developers, establishing code review practices, PR templates, and pair programming routines</li>
+      </ul>
+    </div>
+
+  </div>
+
+  <!-- PROJECTS -->
+  <div class="section avoid-break">
+    <div class="section-title">Projects</div>
+
+    <div class="project">
+      <span class="project-title">Enterprise Payment Portal (Prime IT)</span>
+      <span class="project-badge">Production</span>
+      <div class="project-desc">React SPA with styled-components for a Lisbon bank's enterprise payment workflows. Included API contract design with the backend team and a shared component library. Alongside the SPA, built Puppeteer automation that reduced manual data-entry by 90%.</div>
+      <div class="project-tech">React, TypeScript, styled-components, GraphQL, Node.js, SQL Server</div>
+    </div>
+
+    <div class="project">
+      <span class="project-title">Batista Consulting</span>
+      <span class="project-badge">Live</span>
+      <div class="project-desc">Solo IT consultancy serving European and US SMEs -- custom React/TypeScript applications, technical audits, and frontend architecture advice. Independent delivery across concurrent client engagements.</div>
+      <div class="project-tech">React, Next.js, TypeScript, Node.js, PostgreSQL, CI/CD</div>
+    </div>
+
+    <div class="project">
+      <span class="project-title">Rock in Rio Checkout (Ingresso.com)</span>
+      <span class="project-badge">200M+ users</span>
+      <div class="project-desc">Mobile-first checkout experience for one of South America's largest ticketing platforms. Built within a modular component architecture with performance profiling, code splitting, and automated test coverage for peak traffic resilience.</div>
+      <div class="project-tech">React, TypeScript, Cypress, Jest, CI/CD</div>
+    </div>
+
+  </div>
+
+  <!-- EDUCATION -->
+  <div class="section avoid-break">
+    <div class="section-title">Education</div>
+    <div class="edu-item">
+      <div class="edu-header">
+        <span class="edu-title">Information Systems <span class="edu-org">-- Federal Fluminense University (UFF)</span></span>
+        <span class="edu-year">2018 - 2022</span>
+      </div>
+      <div class="edu-desc">Coursework completed. Systems design, databases, algorithms, software engineering.</div>
+    </div>
+  </div>
+
+  <!-- CERTIFICATIONS -->
+  <div class="section avoid-break">
+    <div class="section-title">Certifications</div>
+    <div class="cert-item">
+      <span class="cert-title">AWS Cloud Practitioner Essentials Day <span class="cert-org">-- Amazon Web Services</span></span>
+      <span class="cert-year">2022</span>
+    </div>
+  </div>
+
+  <!-- SKILLS -->
+  <div class="section avoid-break">
+    <div class="section-title">Skills</div>
+    <div class="skills-grid">
+      <span class="skill-item"><span class="skill-category">Languages:</span> JavaScript, TypeScript, HTML5, CSS3, Python, SQL</span>
+      <span class="skill-item"><span class="skill-category">Frontend:</span> React, Next.js, React Query, Zustand, styled-components, Tailwind, SCSS/CSS Modules, Angular, Material-UI, Storybook, Cypress, Jest</span>
+      <span class="skill-item"><span class="skill-category">APIs &amp; Data:</span> GraphQL, REST, Node.js, Express, Puppeteer, Postman</span>
+      <span class="skill-item"><span class="skill-category">Databases:</span> PostgreSQL, MongoDB, SQL Server</span>
+      <span class="skill-item"><span class="skill-category">Infra &amp; CI/CD:</span> Jenkins, Azure DevOps, Docker, Git, GitFlow, Vercel</span>
+      <span class="skill-item"><span class="skill-category">Languages spoken:</span> Portuguese (native), English (C2), Spanish (B1), German (A2)</span>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
