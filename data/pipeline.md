@@ -86,3 +86,82 @@
 - [ ] https://www.arbeitnow.com/jobs/companies/atolls/senior-full-stack-engineer-platform-react-typescript-nodejs-berlin-313789 | Atolls | Senior Full-Stack Engineer Platform (React/TypeScript/Node.js) — Berlin
 - [ ] https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000137399559-senior-full-stack-software-engineer-f-m-d-react-node-js | Bertelsmann | Senior Full Stack Software Engineer (React/Node.js) — Berlin
 - [ ] https://www.arbeitnow.com/jobs/companies/recaregmbh/remote-tech-lead-agent-frontend-berlin-456555 | Recaregmbh | Remote Tech Lead Frontend — Berlin
+
+<!-- === Ashby — Fullstack (2026-08-01) === -->
+- [ ] https://jobs.ashbyhq.com/scale%20army%20careers/f4b75d38-0337-4b00-a59d-9ebd174c16e2 | Scale Army | Senior Fullstack Engineer
+- [ ] https://jobs.ashbyhq.com/bjakcareer/009872d9-d1b3-4fe0-abb9-2e998ea7dfbd | Bjak | Senior Software Engineer, JavaScript/TypeScript
+
+<!-- === Ashby — Solutions Engineer (2026-08-01) === -->
+- [ ] https://jobs.ashbyhq.com/withclutch/27cb9400-9947-4ec2-a986-4dbe8bd31da7 | Clutch | Staff Implementation Engineer
+- [ ] https://jobs.ashbyhq.com/curri/0da884e4-ad46-44a2-9a87-3acfefe42026 | Curri | Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/notabene/3745c904-d2e4-4b3f-a323-80c8c9308c56 | Notabene | Solutions Engineer, Americas
+- [ ] https://jobs.ashbyhq.com/replicated/85968a2d-d6e3-4209-bcf8-1b7c47884ce4 | Replicated | Senior Solutions Engineer (K8s)
+- [ ] https://jobs.ashbyhq.com/absorblms/169ebd22-53f8-475b-b15a-cfb0811c02db | Absorb | Presales Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/lavendo/f77d9452-701b-4e89-825c-d11336b77dab | Lavendo | Senior Solutions Engineer
+
+<!-- === Greenhouse — Senior Frontend (2026-08-01) === -->
+- [ ] https://boards.greenhouse.io/reddit/jobs/3848638 | Reddit | Senior/Staff Frontend Engineer - Consumer Products
+- [ ] https://job-boards.greenhouse.io/optimaldynamics/jobs/5969675004 | Optimal Dynamics | Senior Software Engineer, Frontend
+- [ ] https://job-boards.greenhouse.io/avride/jobs/4240133009 | Avride | Senior Frontend Engineer - Remote Assistance Systems
+- [ ] https://job-boards.greenhouse.io/incadigitalinc/jobs/4329665009 | Inca Digital | Senior Frontend Engineer (US)
+
+<!-- === Greenhouse — Fullstack (2026-08-01) === -->
+- [ ] https://job-boards.greenhouse.io/baton/jobs/5172392007 | Baton (Ryder Technology Lab) | Senior Software Engineer - Full Stack, Technical Lead
+- [ ] https://job-boards.greenhouse.io/serhant/jobs/4121505009 | Serhant | Senior Full Stack Engineer
+- [ ] https://job-boards.greenhouse.io/sharegateen/jobs/5194489007 | ShareGate | Senior Fullstack Developer (C#/React)
+- [ ] https://job-boards.greenhouse.io/knock/jobs/5641358004 | Knock | Senior Full Stack Software Engineer
+- [ ] https://job-boards.greenhouse.io/topsteptrader/jobs/7701743003 | Topstep | Senior Fullstack Engineer (Payments)
+- [ ] https://job-boards.greenhouse.io/northbeam/jobs/4697407006 | Northbeam | Senior Fullstack Engineer (TypeScript)
+- [ ] https://job-boards.greenhouse.io/workleap/jobs/5194486007 | Workleap | Senior Fullstack Developer (C#/React)
+
+<!-- === Greenhouse — Solutions Engineer (2026-08-01) === -->
+- [ ] https://job-boards.greenhouse.io/embrace/jobs/5743949004 | Embrace | Solutions Engineer
+- [ ] https://boards.greenhouse.io/heartflowinc/jobs/4309757004 | HeartFlow | Solutions Engineer
+- [ ] https://boards.greenhouse.io/heartflowinc/jobs/4183967004 | HeartFlow | Solutions Engineer - Digital Health
+- [ ] https://job-boards.greenhouse.io/datakindinc/jobs/7814145003 | DataKind | Technical Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/telnyx54/jobs/7776490003 | Telnyx | Solutions Engineer, LATAM
+- [ ] https://job-boards.greenhouse.io/mesh/jobs/5308969008 | Mesh | Solutions Engineer
+
+<!-- === Greenhouse — Design Systems & DX (2026-08-01) === -->
+- [ ] https://job-boards.greenhouse.io/dropbox/jobs/7862086 | Dropbox | Frontend Product Software Engineer, Design Systems
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/6626945 | Cloudflare | Frontend Engineer, UI Platform
+- [ ] https://job-boards.greenhouse.io/redcellpartners/jobs/5099455007 | Red Cell Partners | Lead UX/UI Engineer
+
+<!-- === Lever — Senior Frontend (2026-08-01) === -->
+- [ ] https://jobs.lever.co/jobgether/1a9f3112-4d15-43db-b579-c388f1a76281 | Jobgether | Senior Fullstack Engineer (TypeScript)
+- [ ] https://jobs.lever.co/jobgether/7bb2ee81-7c88-4983-9ae0-e74485fc853b | Jobgether | Senior Frontend Engineer (React)
+- [ ] https://jobs.lever.co/jobgether/608ced9f-b276-45ca-897f-cc259a629a70 | Jobgether | Senior Frontend Software Engineer, Admin Console (React)
+- [ ] https://jobs.lever.co/jobgether/42b545f8-c1a0-4c4a-bf9e-032e876fb1ec | Jobgether | Senior Frontend Developer (Core)
+- [ ] https://jobs.lever.co/smart-working-solutions/75c35c7a-4354-434b-897a-f8b6fcab40f1 | Smart Working Solutions | Senior Full Stack Engineer (React, Typescript, Node.js)
+- [ ] https://jobs.lever.co/firstup/28b3e9f0-9b31-445c-b7de-500bff93da94 | Firstup | Sr. Software Engineer, Fullstack
+- [ ] https://jobs.lever.co/jobgether/4f6e7813-54eb-477b-8b58-53f20ece027d | Jobgether | Senior Frontend Engineer - Editor and Graphics
+- [ ] https://jobs.lever.co/jobgether/0cdb88c0-79f0-449c-ac59-7e6d67712380 | Jobgether | Senior/Staff TypeScript Engineer
+- [ ] https://jobs.lever.co/jobgether/69264d49-5c50-4f7e-912e-f3058e133ce1 | Jobgether | Staff Software Engineer, Full-Stack
+
+<!-- === Lever — Solutions & Consulting (2026-08-01) === -->
+- [ ] https://jobs.lever.co/jobgether/6d9d5911-f1e2-4251-8881-b8ab89bf70dd | Jobgether | Solutions Engineer
+- [ ] https://jobs.lever.co/jobgether/7609c91d-92b9-484c-bb04-e42bdafe3932 | Jobgether | Remote Solutions Engineering Director
+- [ ] https://jobs.lever.co/jobgether/4aa18899-3d94-4706-9420-3af1f70e0bc5 | Jobgether | Remote Solutions Engineering Head
+- [ ] https://jobs.lever.co/jobgether/b8aff444-7eb7-4045-886e-0189cc29889e | Jobgether | Senior Technical Solutions Engineer
+- [ ] https://jobs.lever.co/ttecdigital/e875d8c6-51b4-46d5-92d0-a34976692b17 | TTEC Digital | AWS Solutions Engineer
+
+<!-- === Workable — Frontend & Fullstack (2026-08-01) === -->
+- [ ] https://apply.workable.com/prepass/j/9ED74D5C46/ | PrePass | Senior Fullstack Engineer
+- [ ] https://apply.workable.com/pavago/j/171507E765 | Pavago | Senior Full Stack Engineer
+- [ ] https://apply.workable.com/devsu/j/CE55E462B6 | Devsu | Semi-Senior Fullstack React & Node Developer
+- [ ] https://apply.workable.com/titanos/j/4869A1EA00/ | Titan OS | Senior Frontend Engineer (React)
+- [ ] https://apply.workable.com/talentpluto/j/5B0E24010F | talentpluto | Senior Full Stack Engineer
+- [ ] https://apply.workable.com/manilarecruitment/j/C87B21AD48 | Manila Recruitment | Senior Full Stack Developer
+
+<!-- === Berlin — Frontend (2026-08-01) === -->
+- [ ] https://jobs.smartrecruiters.com/Bitlane/743999718513554-senior-frontend-developer-react-m-w-d- | Bitlane | Senior Frontend Developer (React)
+- [ ] https://www.arbeitnow.com/jobs/companies/erecht24-gmbh-co-kg/senior-frontend-engineer-react-berlin-430240 | eRecht24 | Senior Frontend Engineer (React)
+
+<!-- === Berlin — Fullstack (2026-08-01) === -->
+- [ ] https://www.themuse.com/jobs/exadel/senior-fullstack-software-engineer-react-nodejs-b279f2 | Exadel | Senior Fullstack Software Engineer (React/Node.js)
+
+<!-- === Engineering Lead — Frontend (2026-08-01) === -->
+- [ ] https://jaabz.com/jobs/35925-lead-engineer-reactjs-nodejs | DL Remote | Lead Engineer (React.js, Node.js)
+
+<!-- === RemoteFront — Frontend & Fullstack (2026-08-01) === -->
+- [ ] https://www.remotefront.com/remote-jobs/access-softek-senior-full-stack-developer-net-react-ds6u8 | Access Softek | Senior Full-Stack Developer
