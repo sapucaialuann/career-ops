@@ -165,3 +165,43 @@
 
 <!-- === RemoteFront — Frontend & Fullstack (2026-08-01) === -->
 - [ ] https://www.remotefront.com/remote-jobs/access-softek-senior-full-stack-developer-net-react-ds6u8 | Access Softek | Senior Full-Stack Developer
+
+<!-- === SCAN 2026-08-04 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks job board domains. Verify liveness before evaluating. -->
+
+<!-- === Ashby — Senior Frontend (2026-08-04) === -->
+- [ ] https://jobs.ashbyhq.com/reactivemarkets/50abf8d2-33fe-40bb-85ba-10a69bec0403 | Reactive Markets | Senior Frontend Engineer
+- [ ] https://jobs.ashbyhq.com/applied/81ecc9b1-5b46-40c1-b69e-ffc20a4a53f9 | Applied Intuition | Senior Frontend Engineer (Full-Stack)
+
+<!-- === Ashby — Fullstack (2026-08-04) === -->
+- [ ] https://jobs.ashbyhq.com/saronic/aaf993ec-7263-4f03-8b3b-7c3bf200b7f2 | Saronic Technologies | Senior Full Stack Engineer
+
+<!-- === Ashby — Solutions & DX (2026-08-04) === -->
+- [ ] https://jobs.ashbyhq.com/factory/5535c193-cbfb-482c-81d9-8bda93d65391 | Factory | Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/harvey/823658d8-21ae-46e5-ac93-1454e6527c63 | Harvey | Software Engineer, Developer Experience (DevEx)
+
+<!-- === Greenhouse — Senior Frontend (2026-08-04) === -->
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8082867 | Reddit | Staff Frontend Engineer, Ads Creative
+- [ ] https://job-boards.greenhouse.io/future/jobs/4683143005 | Future | Staff Frontend Engineer
+- [ ] https://job-boards.greenhouse.io/keepersecurity/jobs/4090680009 | Keeper Security | Senior Frontend Software Engineer, Admin Console (React)
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5173337007 | Verkada | Staff Frontend Engineer, Design Systems
+- [ ] https://job-boards.greenhouse.io/miris/jobs/4088248009 | Miris | Front End UI Engineer
+
+<!-- === Greenhouse — Fullstack (2026-08-04) === -->
+- [ ] https://job-boards.greenhouse.io/centralreach/jobs/4232881009 | CentralReach | Senior Full Stack Software Engineer (.NET/React)
+- [ ] https://job-boards.greenhouse.io/liveviewtechnologiesinc/jobs/5290830008 | LVT | Senior Fullstack Software Engineer
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7819654003 | Affirm | Senior Software Engineer, Fullstack (Card Acquisition)
+- [ ] https://job-boards.greenhouse.io/unframe/jobs/4931577101 | Unframe | Full Stack Software Engineer - Platform
+
+<!-- === Greenhouse — Solutions Engineer (2026-08-04) === -->
+- [ ] https://job-boards.greenhouse.io/airspace/jobs/6115078004 | Airspace | Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/logicgate/jobs/4716078005 | LogicGate | Solutions Engineer / Senior Solutions Engineer
+
+<!-- === Lever — Fullstack & Frontend (2026-08-04) === -->
+- [ ] https://jobs.lever.co/handoff/e41dcba6-b1c5-4c39-996d-bf3ab443dc47 | Handoff | Senior Fullstack Engineer
+- [ ] https://jobs.lever.co/standtogether/163d5dbb-5d5d-489b-a368-68d875afe92b | Stand Together | Senior Full-Stack Software Engineer - Front-End Focused
+- [ ] https://jobs.lever.co/veeva/60bc3a35-8600-473f-9670-55485bf67286 | Veeva Systems | Senior Software Engineer - React and TypeScript
+
+<!-- === Workable — Frontend & Fullstack (2026-08-04) === -->
+- [ ] https://apply.workable.com/accellor/j/FF4A6C1FB3 | Accellor | Senior Full Stack Software Developer (React, Python)
+- [ ] https://apply.workable.com/unpack-holdings-limited/j/5F9708821A | Unpack Holdings | Sr. Frontend Engineer (ReactJS + GraphQL)
