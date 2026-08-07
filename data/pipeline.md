@@ -205,3 +205,34 @@
 <!-- === Workable — Frontend & Fullstack (2026-08-04) === -->
 - [ ] https://apply.workable.com/accellor/j/FF4A6C1FB3 | Accellor | Senior Full Stack Software Developer (React, Python)
 - [ ] https://apply.workable.com/unpack-holdings-limited/j/5F9708821A | Unpack Holdings | Sr. Frontend Engineer (ReactJS + GraphQL)
+
+<!-- === SCAN 2026-08-07 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). -->
+
+<!-- === WebSearch — Ashby Senior Frontend (2026-08-07) === -->
+- [ ] https://jobs.ashbyhq.com/fern/5ec0e062-2b8a-48f2-9ba6-8f2fde970aba | Fern | Senior Frontend Engineer
+
+<!-- === WebSearch — Ashby DX (2026-08-07) === -->
+- [ ] https://jobs.ashbyhq.com/workos/b6c03b24-b4ee-4ee3-ac62-5e5718c502d4 | WorkOS | Developer Experience Engineer
+
+<!-- === WebSearch — Greenhouse Fullstack (2026-08-07) === -->
+- [ ] https://job-boards.greenhouse.io/nextgenventures/jobs/4215796009 | NextGen Ventures | Senior Full Stack Software Engineer (Python/React/TypeScript/Next.js)
+
+<!-- === WebSearch — Greenhouse Design Systems & DX (2026-08-07) === -->
+- [ ] https://job-boards.greenhouse.io/roo/jobs/5377114008 | Roo | Senior Software Engineer, Frontend Platform
+
+<!-- === WebSearch — Lever Solutions (2026-08-07) === -->
+- [ ] https://jobs.lever.co/jobgether/277c7311-1b35-436a-bb1a-081aae061827 | Jobgether | Customer Solutions Architect
+
+<!-- === WebSearch — Wellfound Frontend (2026-08-07) === -->
+- [ ] https://wellfound.com/jobs/4065055-senior-frontend-software-engineer | SoilFLO | Senior Frontend Software Engineer
+
+<!-- === WebSearch — Automation QA (2026-08-07) === -->
+- [ ] https://themuse.com/jobs/bounteous/cypress-senior-automation-qa-bot | Bounteous | Cypress Senior Automation QA
+
+<!-- === WebSearch — Tech Lead Frontend (2026-08-07) === -->
+- [ ] https://www.remocate.app/jobs/tech-lead-frontend-developer-react | LODGEiT | Tech Lead Frontend Developer (React)
+
+<!-- === WebSearch — RemoteFront Frontend (2026-08-07) === -->
+- [ ] https://www.remotefront.com/remote-jobs/tripleten-israel-frontend-developer-b2b-remote-6s6a7 | TripleTen | Frontend Developer (B2B, remote)
