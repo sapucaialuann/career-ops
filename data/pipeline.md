@@ -236,3 +236,35 @@
 
 <!-- === WebSearch — RemoteFront Frontend (2026-08-07) === -->
 - [ ] https://www.remotefront.com/remote-jobs/tripleten-israel-frontend-developer-b2b-remote-6s6a7 | TripleTen | Frontend Developer (B2B, remote)
+
+<!-- === SCAN 2026-08-10 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+
+<!-- === Greenhouse — Senior Frontend (2026-08-10) === -->
+- [ ] https://job-boards.greenhouse.io/techholding/jobs/4702798005 | Tech Holding | Frontend Engineer (Contract) - Remote
+
+<!-- === Greenhouse — Fullstack (2026-08-10) === -->
+- [ ] https://job-boards.greenhouse.io/mattermost/jobs/5379251008 | Mattermost | Senior Full Stack Engineer
+- [ ] https://job-boards.greenhouse.io/eulaskallc/jobs/4299954009 | Eulaska LLC | Senior Full Stack Engineer
+
+<!-- === Greenhouse — Solutions Engineer (2026-08-10) === -->
+- [ ] https://job-boards.greenhouse.io/appomni/jobs/5670665004 | AppOmni | Solutions Engineer - Central (Remote)
+- [ ] https://job-boards.greenhouse.io/warp/jobs/5832041004 | Warp | Implementation Engineer
+
+<!-- === Greenhouse — Design Systems & DX (2026-08-10) === -->
+- [ ] https://job-boards.greenhouse.io/arcesiumllc/jobs/5121602007 | Arcesium LLC | Software Engineer - UI Frontend
+
+<!-- === Lever — Senior Frontend (2026-08-10) === -->
+- [ ] https://jobs.lever.co/jobgether/0fd07f3c-e290-47ba-aba0-9a33ebf173d0 | Jobgether | Senior Frontend Engineer (Contractor)
+- [ ] https://jobs.lever.co/jobgether/e438605f-b749-4e0a-a458-27f2af6df4d1 | Jobgether | Senior Software Engineer - React
+- [ ] https://jobs.lever.co/finix/8447c745-3863-4b07-957e-50ad6a1b3f94 | Finix | Senior Frontend Engineer
+
+<!-- === Wellfound — Frontend (2026-08-10) === -->
+- [ ] https://wellfound.com/jobs/4322509-senior-fullstack-engineer | Siena AI | Senior Fullstack Engineer
+
+<!-- === Workable — Frontend & Fullstack (2026-08-10) === -->
+- [ ] https://apply.workable.com/pavago/j/729380E5C0 | Pavago | Senior Full Stack Developer
+- [ ] https://apply.workable.com/novata/j/81FC2DAF61 | Novata | Senior Full Stack Engineer (React, Node.js)
+
+<!-- === Berlin — Frontend (2026-08-10) === -->
+- [ ] https://join.com/companies/join/15793500-senior-frontend-engineer-reactjs-m-f-d | JOIN | Senior Frontend Engineer (ReactJS) — Berlin
