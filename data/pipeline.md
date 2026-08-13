@@ -268,3 +268,29 @@
 
 <!-- === Berlin — Frontend (2026-08-10) === -->
 - [ ] https://join.com/companies/join/15793500-senior-frontend-engineer-reactjs-m-f-d | JOIN | Senior Frontend Engineer (ReactJS) — Berlin
+
+<!-- === SCAN 2026-08-13 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+
+<!-- === Ashby — Senior Frontend (2026-08-13) === -->
+- [ ] https://jobs.ashbyhq.com/close/bbd78474-bee4-4fdc-a670-9234457bcf29 | Close | Senior Frontend Engineer – Growth (USA Only - 100% Remote)
+
+<!-- === Ashby — Fullstack (2026-08-13) === -->
+- [ ] https://jobs.ashbyhq.com/bjakcareer/661a1334-f463-4c88-b27e-068b319980f0/application | Bjak | Full Stack Engineer, JavaScript/TypeScript (Remote)
+
+<!-- === Greenhouse — Fullstack (2026-08-13) === -->
+- [ ] https://job-boards.greenhouse.io/buzzsolutions/jobs/5026947008 | Buzz Solutions | Senior Full Stack Engineer
+
+<!-- === Lever — Senior Frontend (2026-08-13) === -->
+- [ ] https://jobs.lever.co/jobgether/21d828d3-3b51-4c6f-8c73-c247fad1ac77 | Jobgether | Senior Frontend Engineer (Contractor)
+
+<!-- === Lever — Solutions & Consulting (2026-08-13) === -->
+- [ ] https://jobs.lever.co/Ketch/b558e1af-f11a-4ae4-989d-f99bb71ed6b9 | Ketch | Senior Solutions Engineer (Eastern US)
+
+<!-- === Berlin — Frontend (2026-08-13) === -->
+- [ ] https://careers.hellofresh.com/global/en/job/4076431/Senior-Frontend-Engineer-React-m-f-x | HelloFresh | Senior Frontend Engineer - React (m/f/x)
+- [ ] https://join.com/companies/join/15943622-senior-frontend-engineer-reactjs-m-f-d | JOIN | Senior Frontend Engineer (ReactJS) — Berlin
+- [ ] https://www.arbeitnow.com/jobs/companies/qonto/senior-staff-frontend-engineer-react-remote-friendly-berlin-322376 | Qonto | Senior/Staff Frontend Engineer (React) - Remote friendly
+
+<!-- === Engineering Lead — Frontend (2026-08-13) === -->
+- [ ] https://careers.spacelift.io/jobs/7097984-frontend-engineer-react-remote-europe | Spacelift | Frontend Engineer (React, Remote, Europe)
