@@ -294,3 +294,40 @@
 
 <!-- === Engineering Lead — Frontend (2026-08-13) === -->
 - [ ] https://careers.spacelift.io/jobs/7097984-frontend-engineer-react-remote-europe | Spacelift | Frontend Engineer (React, Remote, Europe)
+
+<!-- === SCAN 2026-08-16 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+
+<!-- === Ashby — Fullstack (2026-08-16) === -->
+- [ ] https://jobs.ashbyhq.com/deepnote/7f49b6e5-9135-4087-83ce-b6de767de479 | Deepnote | Senior Full Stack Engineer
+
+<!-- === Ashby — Solutions Engineer (2026-08-16) === -->
+- [ ] https://jobs.ashbyhq.com/lavendo/a378c32a-a308-4ee2-813f-946d8b350d1b | Lavendo | Senior Solutions Engineer, AppSec (Remote US)
+
+<!-- === Greenhouse — Senior Frontend (2026-08-16) === -->
+- [ ] https://job-boards.greenhouse.io/incadigitalinc/jobs/4290798009 | Inca Digital | Senior Frontend Engineer (EU)
+
+<!-- === Greenhouse — Fullstack (2026-08-16) === -->
+- [ ] https://job-boards.greenhouse.io/nortal/jobs/5208258007 | Nortal | Senior Fullstack Engineer (React, Node.JS & C#)
+
+<!-- === Greenhouse — Solutions Engineer (2026-08-16) === -->
+- [ ] https://job-boards.greenhouse.io/nmi/jobs/5020531008 | NMI | Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006909005 | Glean | Solutions Engineer - Central
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4052805009 | PlanetScale | Solutions Engineer
+
+<!-- === Greenhouse — Design Systems & DX (2026-08-16) === -->
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5199030007 | Verkada | Staff Frontend Engineer - Design Systems
+- [ ] https://job-boards.greenhouse.io/roo/jobs/5391625008 | Roo | Senior Software Engineer, Frontend Platform
+
+<!-- === Lever — Fullstack (2026-08-16) === -->
+- [ ] https://jobs.lever.co/bluelightconsulting/4c296039-6972-4c98-8702-fa5080fc5fc6 | Bluelight Consulting | Senior Flask+React Fullstack Developer
+
+<!-- === Lever — Solutions & Consulting (2026-08-16) === -->
+- [ ] https://jobs.lever.co/smarsh/1281c735-7117-4ecf-8843-f6b5049f6538/ | Smarsh | Solutions Engineer
+
+<!-- === Wellfound — Frontend (2026-08-16) === -->
+- [ ] https://wellfound.com/jobs/4574801-senior-frontend-engineer-full-stack | Soda | Senior Frontend Engineer (Full-stack)
+- [ ] https://wellfound.com/jobs/3209008-senior-frontend-engineer | Halliday | Senior Frontend Engineer
+
+<!-- === Berlin — Frontend (2026-08-16) === -->
+- [ ] https://builtin.com/job/senior-frontend-engineer-m-f-d-team-webstack-onsite-hamburg-or-berlin/7665675 | Unknown | Senior Frontend Engineer (m/f/d) - Team Webstack — Berlin (onsite)
