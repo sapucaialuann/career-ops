@@ -331,3 +331,31 @@
 
 <!-- === Berlin — Frontend (2026-08-16) === -->
 - [ ] https://builtin.com/job/senior-frontend-engineer-m-f-d-team-webstack-onsite-hamburg-or-berlin/7665675 | Unknown | Senior Frontend Engineer (m/f/d) - Team Webstack — Berlin (onsite)
+
+<!-- === SCAN 2026-08-19 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped entirely. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Ashby — Senior Frontend (2026-08-19) === -->
+- [ ] https://jobs.ashbyhq.com/hirehangar/7021adb6-ce7f-44f0-a677-e646d17e1308 | Hire Hangar | Senior Frontend Engineer
+- [ ] https://jobs.ashbyhq.com/comfy-org/c3e0584d-5490-491f-aae4-b5922ef63fd2 | Comfy | Senior/Staff Frontend Developer
+- [ ] https://jobs.ashbyhq.com/Maxima/7f4d99b4-19c2-4791-b014-b53fd88ee953 | Maxima | Senior/Staff Software Engineer - Frontend
+- [ ] https://jobs.ashbyhq.com/cohere/77a96af3-27be-488e-b883-3b2bf7f4e23d | Cohere | Senior/Staff Frontend Engineer
+- [ ] https://jobs.ashbyhq.com/n8n/bdff4d5b-9cc0-4b1f-9ca1-7008e5972488 | n8n | Senior Frontend Platform Engineer
+- [ ] https://jobs.ashbyhq.com/sarvam/5fafff38-0438-4a6b-afa1-bfcb750b3c9b | Sarvam | Senior Frontend Engineer - Arya
+- [ ] https://jobs.ashbyhq.com/generalintuition-medal/4b9b9fc0-027b-4a96-9e06-fa1dae6379b6/application | General Intuition & Medal | Senior Frontend Engineer (React)
+
+<!-- === Greenhouse — Senior Frontend (2026-08-19) === -->
+- [ ] https://job-boards.greenhouse.io/creativefabrica/jobs/4561242101 | Creative Fabrica | Senior Frontend Engineer (React), Growth
+- [ ] https://job-boards.greenhouse.io/moniepoint/jobs/4587490101 | Moniepoint | Senior Frontend Engineer (React)
+- [ ] https://job-boards.greenhouse.io/rushstreetinteractive/jobs/5839978004 | Rush Street Interactive | Senior Frontend Engineer
+- [ ] https://job-boards.greenhouse.io/techholding/jobs/4695242005 | Tech Holding | Senior Frontend Engineer - Next.JS (Contract)
+- [ ] https://job-boards.greenhouse.io/apaleo/jobs/6685231003 | Apaleo | Senior Frontend Engineer – React/Next.js (f/m/d)
+- [ ] https://job-boards.greenhouse.io/natera/jobs/5993307004 | Natera | Senior Frontend Engineer
+
+<!-- === Lever — Senior Frontend & Fullstack (2026-08-19) === -->
+- [ ] https://jobs.lever.co/jobgether/ffcfbac6-854d-499f-9732-04f23617b400 | Jobgether | Sr. Frontend Engineer (React)
+- [ ] https://jobs.lever.co/jobgether/2d7cdf68-3d86-454f-9add-41e3a3dd6cea | Jobgether | Senior Frontend Engineer
+- [ ] https://jobs.lever.co/zartis/9febfb96-224c-4c6d-acab-d5e70a2c4dc6 | Zartis | Senior Frontend Engineer (React)
+- [ ] https://jobs.lever.co/oowlish/cd66a853-ac1b-4740-a6b8-f6d33b13cb3c | Oowlish Technology | Senior Frontend Engineer (React)
+- [ ] https://jobs.lever.co/redoxengine/0821a7a4-9d7b-4c13-9160-d716db435de4 | Redox | Staff Software Engineer - Fullstack
