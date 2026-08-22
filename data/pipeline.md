@@ -359,3 +359,41 @@
 - [ ] https://jobs.lever.co/zartis/9febfb96-224c-4c6d-acab-d5e70a2c4dc6 | Zartis | Senior Frontend Engineer (React)
 - [ ] https://jobs.lever.co/oowlish/cd66a853-ac1b-4740-a6b8-f6d33b13cb3c | Oowlish Technology | Senior Frontend Engineer (React)
 - [ ] https://jobs.lever.co/redoxengine/0821a7a4-9d7b-4c13-9160-d716db435de4 | Redox | Staff Software Engineer - Fullstack
+
+<!-- === SCAN 2026-08-22 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Ashby — Fullstack (2026-08-22) === -->
+- [ ] https://jobs.ashbyhq.com/valerie-group/085f4876-2ab1-441d-8e05-b1249c3350a4 | Valerie Group | Senior Fullstack Developer
+- [ ] https://jobs.ashbyhq.com/vanta/e54ab450-192f-40f3-8029-37a44f2c09b1 | Vanta | Senior Fullstack Engineer, Emerging Products
+
+<!-- === Ashby — Solutions Engineer (2026-08-22) === -->
+- [ ] https://jobs.ashbyhq.com/whippy/d4194482-5454-4186-95ba-c25ec0afeac7 | Whippy | Solutions Engineer
+
+<!-- === Ashby — Design Systems & DX (2026-08-22) === -->
+- [ ] https://jobs.ashbyhq.com/rula/e088c86d-1a3c-4da9-81f5-d75990344f20 | Rula | Sr. Software Engineer - Developer Experience
+
+<!-- === Greenhouse — Solutions Engineer (2026-08-22) === -->
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5216665007 | Harbor | Consultant, Implementation Engineer
+
+<!-- === Greenhouse — Design Systems & DX (2026-08-22) === -->
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4707457005 | Tailscale | Frontend Engineer
+- [ ] https://job-boards.greenhouse.io/lighthouse/jobs/4950682101 | Lighthouse | Lead Platform Engineer
+
+<!-- === Greenhouse — Fullstack (2026-08-22) === -->
+- [ ] https://job-boards.greenhouse.io/stay22/jobs/4354780009 | Stay22 | Senior Fullstack Developer
+- [ ] https://job-boards.greenhouse.io/grovecollaborative/jobs/5381745008 | Grove Collaborative | Senior Software Engineer, Front End / Full Stack
+
+<!-- === Lever — Senior Frontend (2026-08-22) === -->
+- [ ] https://jobs.lever.co/Yassir/b737b6f3-f949-419f-b87a-5ac9f8b5da4a | Yassir | Senior Frontend Developer (React.js)
+- [ ] https://jobs.lever.co/relay/298f0f7a-d493-49fa-935d-89a76ef09665 | Relay | Frontend Developer (React, TypeScript)
+
+<!-- === Lever — Solutions & Consulting (2026-08-22) === -->
+- [ ] https://jobs.lever.co/bolster/2447e7e7-3c7d-48e6-825d-30d9520f9f09 | Bolster | Solutions Engineer
+
+<!-- === Workable — Frontend & Fullstack (2026-08-22) === -->
+- [ ] https://apply.workable.com/two95-international-inc-3/j/F839BEF34D/ | Two95 International | Senior Front-End Developer (React + TypeScript)
+
+<!-- === RemoteFront — Frontend & Fullstack (2026-08-22) === -->
+- [ ] https://www.remotefront.com/remote-jobs/procurify-full-stack-engineer-ii-jzak7 | Procurify | Full Stack Engineer II
