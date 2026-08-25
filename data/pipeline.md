@@ -397,3 +397,35 @@
 
 <!-- === RemoteFront — Frontend & Fullstack (2026-08-22) === -->
 - [ ] https://www.remotefront.com/remote-jobs/procurify-full-stack-engineer-ii-jzak7 | Procurify | Full Stack Engineer II
+
+<!-- === SCAN 2026-08-25 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Ashby — Design Systems & DX (2026-08-25) === -->
+- [ ] https://jobs.ashbyhq.com/docker/f7beef23-87b7-4bfa-8946-93e9dc02d805 | Docker | Staff Software Engineer, Developer Experience
+
+<!-- === Greenhouse — Senior Frontend (2026-08-25) === -->
+- [ ] https://job-boards.greenhouse.io/avride/jobs/4013023009 | Avride | Senior Frontend Engineer – Remote Control systems
+
+<!-- === Greenhouse — Solutions Engineer (2026-08-25) === -->
+- [ ] https://job-boards.greenhouse.io/boldbusiness/jobs/4184084009 | Bold Business | Lead Network Implementation Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6121633004 | Grafana Labs | Solutions Engineer (UK, Remote)
+
+<!-- === Greenhouse — Design Systems & DX (2026-08-25) === -->
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7976852 | Reddit | Senior Software Engineer – Full Stack Internal Tooling
+
+<!-- === Lever — Senior Frontend & Fullstack (2026-08-25) === -->
+- [ ] https://jobs.lever.co/jobgether/472479a3-cc59-4fdb-977a-2d76e1b1a92b | Jobgether | Senior Fullstack Engineer
+- [ ] https://jobs.lever.co/everbridge/208fde4c-c9e5-4cb0-a19b-691a74957e36 | Everbridge | Senior Software Engineer – Full Stack (.NET/React)
+- [ ] https://jobs.lever.co/teamsnap/58d0ad09-5a31-47c2-8cd0-251815b207d9 | TeamSnap | Full-Stack Engineer (Backend Focused)
+- [ ] https://jobs.lever.co/dijital-team-pty-ltd/d6044479-8259-4cad-96db-438e8e59f432 | Dijital Team | Full Stack Developer (React/Angular)
+- [ ] https://jobs.lever.co/hatchit/d31d3688-ad7e-41be-81b0-035e3d67858c | Hatch IT | Sr. Full Stack Developer
+
+<!-- === Workable — Frontend & Fullstack (2026-08-25) === -->
+- [ ] https://apply.workable.com/innovationteam/j/9B5705F54B | InnovationTeam | Senior Front End Engineer
+- [ ] https://apply.workable.com/blackstone-eit-2/j/8AAD4DFF88 | BlackStone eIT | Senior Full Stack Developer
+
+<!-- === RemoteFront — Frontend & Fullstack (2026-08-25) === -->
+- [ ] https://www.remotefront.com/remote-jobs/soprasteria1-senior-fullstack-developer-m-w-d-j7htw | Soprasteria | Senior Fullstack Developer
+- [ ] https://www.remotefront.com/remote-jobs/globality-sr-software-engineer-frontend-20h0q | Globality | Senior Frontend Software Engineer
