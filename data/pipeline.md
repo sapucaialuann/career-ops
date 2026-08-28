@@ -429,3 +429,27 @@
 <!-- === RemoteFront — Frontend & Fullstack (2026-08-25) === -->
 - [ ] https://www.remotefront.com/remote-jobs/soprasteria1-senior-fullstack-developer-m-w-d-j7htw | Soprasteria | Senior Fullstack Developer
 - [ ] https://www.remotefront.com/remote-jobs/globality-sr-software-engineer-frontend-20h0q | Globality | Senior Frontend Software Engineer
+
+<!-- === SCAN 2026-08-28 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Ashby — Senior Frontend (2026-08-28) === -->
+- [ ] https://jobs.ashbyhq.com/partyhat/4b71470b-76ce-4818-8fae-98c3d5e16f6c | Partyhat | Senior Frontend Engineer
+
+<!-- === Ashby — Fullstack (2026-08-28) === -->
+- [ ] https://jobs.ashbyhq.com/dave/46c99e96-9cf5-4dfd-a20e-62acd5a4693c | Dave | Senior Full Stack Software Engineer
+- [ ] https://jobs.ashbyhq.com/truelogic/f375a684-61ee-4720-bf47-ee21b91f18b8 | Truelogic | Senior Full-stack Engineer (Python/React)
+- [ ] https://jobs.ashbyhq.com/pearlyplan/c4861327-30bd-4c3b-b993-ebffb5a69065 | Pearly | Senior Software Engineer - Full Stack
+
+<!-- === Greenhouse — Fullstack (2026-08-28) === -->
+- [ ] https://job-boards.greenhouse.io/moovx/jobs/4282111005 | Moovx | Senior Full Stack (.NET/React)
+- [ ] https://job-boards.greenhouse.io/northbeam/jobs/4558061006 | Northbeam | Senior Fullstack Engineer (TypeScript)
+
+<!-- === Greenhouse — Tracked Company (2026-08-28) === -->
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7553930 | Contentful | Fullstack Software Engineer (f/m/d)
+
+<!-- === Lever — Fullstack & Frontend (2026-08-28) === -->
+- [ ] https://jobs.lever.co/3pillarglobal/24e3ef31-5737-4a22-8095-bf7f2a63584b | 3Pillar | Senior Fullstack Engineer (react/.net)
+- [ ] https://jobs.lever.co/okendo/cce7f474-716a-42ab-83bb-0d356d3ac30c | Okendo | Senior Frontend Software Engineer
+- [ ] https://jobs.lever.co/spotify/1692fccc-29f4-4525-a683-b004c2ec62b9 | Spotify | Senior Fullstack Engineer
