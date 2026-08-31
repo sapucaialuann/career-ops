@@ -453,3 +453,20 @@
 - [ ] https://jobs.lever.co/3pillarglobal/24e3ef31-5737-4a22-8095-bf7f2a63584b | 3Pillar | Senior Fullstack Engineer (react/.net)
 - [ ] https://jobs.lever.co/okendo/cce7f474-716a-42ab-83bb-0d356d3ac30c | Okendo | Senior Frontend Software Engineer
 - [ ] https://jobs.lever.co/spotify/1692fccc-29f4-4525-a683-b004c2ec62b9 | Spotify | Senior Fullstack Engineer
+
+<!-- === SCAN 2026-08-31 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Lever — Senior Frontend (2026-08-31) === -->
+- [ ] https://jobs.lever.co/filevine/c1e0d52e-c7a9-43ac-8f64-b6d7867b4702 | Filevine | Senior Software Development Engineer (Front-end)
+- [ ] https://jobs.lever.co/cscgeneration-2/d7367873-0581-49fc-8ab1-8f789d4d4162 | CSC Generation | Senior Frontend Engineer
+
+<!-- === Lever — Solutions & Consulting (2026-08-31) === -->
+- [ ] https://jobs.lever.co/jobgether/adac062a-a075-4388-9ec8-bca07797b654 | Jobgether | Senior Technical Solutions Engineer
+
+<!-- === Wellfound — Frontend (2026-08-31) === -->
+- [ ] https://wellfound.com/jobs/3627560-senior-software-engineer-fullstack | Triumph Arcade | Senior Software Engineer (Fullstack)
+
+<!-- === Greenhouse — Fullstack (2026-08-31) === -->
+- [ ] https://job-boards.greenhouse.io/coderoad/jobs/4164244009 | CodeRoad | Senior Fullstack Developer (Node/React)
