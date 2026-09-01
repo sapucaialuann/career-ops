@@ -470,3 +470,31 @@
 
 <!-- === Greenhouse — Fullstack (2026-08-31) === -->
 - [ ] https://job-boards.greenhouse.io/coderoad/jobs/4164244009 | CodeRoad | Senior Fullstack Developer (Node/React)
+
+<!-- === SCAN 2026-09-01 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Ashby — Senior Frontend (2026-09-01) === -->
+- [ ] https://jobs.ashbyhq.com/stack-ai/f15559d9-4c4f-4e95-bdf5-786376d93f04 | StackAI | Senior Frontend Engineer
+
+<!-- === Ashby — Solutions Engineer (2026-09-01) === -->
+- [ ] https://jobs.ashbyhq.com/code-metal/fc471444-dfef-43df-95a8-ad55d3240a2a | Code Metal | Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/matia/fe8b612c-9396-458c-a243-d5a2d3436792 | Matia | Solutions Engineer
+
+<!-- === Greenhouse — Senior Frontend (2026-09-01) === -->
+- [ ] https://job-boards.greenhouse.io/nextinsurance66/jobs/7972951003 | Next Insurance | Frontend Software Engineer - Website Team
+
+<!-- === Greenhouse — Fullstack (2026-09-01) === -->
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7819656003 | Affirm | Senior Software Engineer, Fullstack
+
+<!-- === Greenhouse — Solutions Engineer (2026-09-01) === -->
+- [ ] https://job-boards.greenhouse.io/rockbot/jobs/6013394004 | Rockbot | Solutions Engineer
+
+<!-- === Lever — Senior Frontend (2026-09-01) === -->
+- [ ] https://jobs.lever.co/jobgether/02c64937-ea99-4b64-ad4c-27c9cc2c2efb | Jobgether | Senior Frontend Engineer
+- [ ] https://jobs.lever.co/coderpad/7367bdea-c6a9-4bb8-991b-63fbb05a02bc | CoderPad | Senior Software Engineer, Fullstack
+- [ ] https://jobs.lever.co/okendo/8466117f-ebfb-45e7-9ef3-c98947a0ff23 | Okendo | Senior Frontend Software Engineer
+
+<!-- === Wellfound — Frontend (2026-09-01) === -->
+- [ ] https://wellfound.com/jobs/4493227-senior-frontend-engineer-react | Noviga Automations | Senior Frontend Engineer (React)
