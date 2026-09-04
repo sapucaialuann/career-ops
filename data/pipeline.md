@@ -498,3 +498,29 @@
 
 <!-- === Wellfound — Frontend (2026-09-01) === -->
 - [ ] https://wellfound.com/jobs/4493227-senior-frontend-engineer-react | Noviga Automations | Senior Frontend Engineer (React)
+
+<!-- === SCAN 2026-09-04 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Ashby — Design Systems & DX (2026-09-04) === -->
+- [ ] https://jobs.ashbyhq.com/workwhilejobs/2e3a69d7-84c9-419e-872b-f08298af86c5 | WorkWhile | Senior Software Engineer, Frontend
+- [ ] https://jobs.ashbyhq.com/searchapi/597a1f05-d9bd-4827-82f1-794c0d861fff | SearchApi | Frontend Engineer & UI Designer (Developer Tooling)
+- [ ] https://jobs.ashbyhq.com/optro/cddb1fa1-c9eb-4ec5-81b5-dc188ed5687c | Optro | Senior Software Engineer I, Design Systems & Accessibility (Remote)
+
+<!-- === Greenhouse — Senior Frontend (2026-09-04) === -->
+- [ ] https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4729549005 | Re:Build Manufacturing | Senior Frontend Engineer
+
+<!-- === Greenhouse — Design Systems & DX (2026-09-04) === -->
+- [ ] https://job-boards.greenhouse.io/hugeinc/jobs/8130455 | HugeInc | Senior UI Engineer
+
+<!-- === Lever — Fullstack & Frontend (2026-09-04) === -->
+- [ ] https://jobs.lever.co/jobgether/77252878-3020-405f-97ed-648f70b0978e | Jobgether | Senior Full-Stack Engineer
+- [ ] https://jobs.lever.co/bluelightconsulting/1608f577-8a93-4b2b-9bc7-7ac10e586762 | Bluelight Consulting | Senior Software Engineer (Python/Flask+React) — Remote LATAM
+- [ ] https://jobs.lever.co/jobgether/8c570b9f-c54d-4965-8751-8f87f925a0fc | Jobgether | Integration Solutions Engineer
+
+<!-- === Workable — Frontend (2026-09-04) === -->
+- [ ] https://apply.workable.com/helium-health/j/DB1AC24AC6 | Helium Health | Senior Frontend Engineer (VueJS / React)
+
+<!-- === Berlin — Fullstack (2026-09-04) === -->
+- [ ] https://hygraph.recruitee.com/o/senior-fullstack-engineer-fmd-berlin-i-germany-eu-i-remote | Hygraph | Senior Fullstack Engineer (f/m/d) - Berlin / EU / Remote
