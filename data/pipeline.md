@@ -524,3 +524,20 @@
 
 <!-- === Berlin — Fullstack (2026-09-04) === -->
 - [ ] https://hygraph.recruitee.com/o/senior-fullstack-engineer-fmd-berlin-i-germany-eu-i-remote | Hygraph | Senior Fullstack Engineer (f/m/d) - Berlin / EU / Remote
+
+<!-- === SCAN 2026-09-07 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Greenhouse — Senior Frontend (2026-09-07) === -->
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8175520 | Reddit | Senior Frontend Engineer, Ads Creative
+
+<!-- === Greenhouse — Solutions Engineer (2026-09-07) === -->
+- [ ] https://job-boards.greenhouse.io/fleetio/jobs/5217902007 | Fleetio | Senior Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6127968004-11 | Grafana Labs | Solutions Engineer (Central US, Remote)
+
+<!-- === Lever — Senior Frontend (2026-09-07) === -->
+- [ ] https://jobs.lever.co/jobgether/0c73d3ac-9ffb-4a5b-aefc-5f2140451b2b | Jobgether | Senior Frontend Developer - React & 3D
+
+<!-- === Engineering Lead — Frontend (2026-09-07) === -->
+- [ ] https://www.themuse.com/jobs/heretechnologies/lead-software-engineer-frontend-react-javascript-mfx | Here Technologies | Lead Software Engineer (Frontend - React/Javascript) — Berlin
