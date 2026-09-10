@@ -541,3 +541,24 @@
 
 <!-- === Engineering Lead — Frontend (2026-09-07) === -->
 - [ ] https://www.themuse.com/jobs/heretechnologies/lead-software-engineer-frontend-react-javascript-mfx | Here Technologies | Lead Software Engineer (Frontend - React/Javascript) — Berlin
+
+<!-- === SCAN 2026-09-10 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Ashby — Senior Frontend (2026-09-10) === -->
+- [ ] https://jobs.ashbyhq.com/trading212/bfc55935-e412-4725-8e15-fdfe57522505 | Trading212 | Senior Frontend Engineer
+
+<!-- === Ashby — Fullstack (2026-09-10) === -->
+- [ ] https://jobs.ashbyhq.com/toggl/a4f3e1f5-753b-4af9-b068-86a09a164cd2 | Toggl | Senior Full Stack Engineer
+- [ ] https://jobs.ashbyhq.com/vinylequity/46dee52f-e86b-4575-8705-7a9f1e2322ae | Vinyl Equity | Full Stack Engineer
+
+<!-- === Ashby — Design Systems & DX (2026-09-10) === -->
+- [ ] https://jobs.ashbyhq.com/optro/915973ab-744d-467e-b448-b8a8e8faaa87 | Optro | Senior Software Engineer II - Backend Developer Experience (Remote USA)
+
+<!-- === Lever — Senior Frontend (2026-09-10) === -->
+- [ ] https://jobs.lever.co/weekdayworks/84b31854-3b43-40e8-80f1-401bb2cf97ce | Weekday | Frontend Engineer
+- [ ] https://jobs.lever.co/jobgether/77f0123a-b6af-4a16-a85d-a472f7f797df | Jobgether | Staff Fullstack Engineer
+
+<!-- === Workable — Frontend & Fullstack (2026-09-10) === -->
+- [ ] https://apply.workable.com/manilarecruitment/j/C6E91CA927/ | Manila Recruitment | Senior Fullstack Developer (React/NextJS/AWS)
