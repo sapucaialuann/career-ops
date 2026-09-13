@@ -542,6 +542,16 @@
 <!-- === Engineering Lead — Frontend (2026-09-07) === -->
 - [ ] https://www.themuse.com/jobs/heretechnologies/lead-software-engineer-frontend-react-javascript-mfx | Here Technologies | Lead Software Engineer (Frontend - React/Javascript) — Berlin
 
+<!-- === SCAN 2026-09-13 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Ashby — Solutions Engineer (2026-09-13) === -->
+- [ ] https://jobs.ashbyhq.com/trm-labs/e8a7a3d5-938f-4d2b-b9d3-86765d8d1dd2 | TRM Labs | Customer Solutions Engineer
+
+<!-- === Lever — Senior Frontend (2026-09-13) === -->
+- [ ] https://jobs.lever.co/bluelightconsulting/c063350c-16eb-471e-b244-ada2092a6631 | Bluelight Consulting | Senior Python/Flask+React Fullstack Engineer
+
 <!-- === SCAN 2026-09-10 === -->
 <!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
 <!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
