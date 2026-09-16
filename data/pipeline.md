@@ -572,3 +572,23 @@
 
 <!-- === Workable — Frontend & Fullstack (2026-09-10) === -->
 - [ ] https://apply.workable.com/manilarecruitment/j/C6E91CA927/ | Manila Recruitment | Senior Fullstack Developer (React/NextJS/AWS)
+
+<!-- === SCAN 2026-09-16 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Ashby — Design Systems & DX (2026-09-16) === -->
+- [ ] https://jobs.ashbyhq.com/Etched/3f83fd5f-5e50-403a-9a03-7ddb56502f49 | Etched | Developer Experience Engineer
+
+<!-- === Ashby — Tracked Company: Zapier (2026-09-16) === -->
+- [ ] https://jobs.ashbyhq.com/zapier/ffc55762-1689-4ae2-9b3e-b91620b189d5 | Zapier | Software Engineer, Fullstack (Integration Platform Zone)
+- [ ] https://jobs.ashbyhq.com/zapier/4d7d3958-5ed8-4ae0-bd11-6f36fd061c9e | Zapier | Engineer, Full Stack (Revenue Zone)
+- [ ] https://jobs.ashbyhq.com/zapier/588d6d3b-85ac-4a63-a4af-4b98d7de3439 | Zapier | Software Engineer, Frontend & Backend leaning Fullstack
+
+<!-- === Greenhouse — Tracked Company: Vercel (2026-09-16) === -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5204022004 | Vercel | Software Engineer, Frontend Platform
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5752684004 | Vercel | Senior Solutions Engineer
+
+<!-- === Lever — Tracked Company: Spotify (2026-09-16) === -->
+- [ ] https://jobs.lever.co/spotify/a8606ee6-84b9-4677-af2f-b57f1e71fd91 | Spotify | Frontend Engineer - Music
+- [ ] https://jobs.lever.co/spotify/1e8c984e-fa8e-4dbb-8f74-6f608ae3bfa1 | Spotify | Fullstack Engineer - Subscriptions
