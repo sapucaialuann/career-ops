@@ -592,3 +592,55 @@
 <!-- === Lever — Tracked Company: Spotify (2026-09-16) === -->
 - [ ] https://jobs.lever.co/spotify/a8606ee6-84b9-4677-af2f-b57f1e71fd91 | Spotify | Frontend Engineer - Music
 - [ ] https://jobs.lever.co/spotify/1e8c984e-fa8e-4dbb-8f74-6f608ae3bfa1 | Spotify | Fullstack Engineer - Subscriptions
+
+<!-- === SCAN 2026-09-19 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Ashby — Solutions Engineer (2026-09-19) === -->
+- [ ] https://jobs.ashbyhq.com/vector/08712d1e-2901-4ded-852f-57d90e43e8ee | Vector | Software Solutions Engineer
+
+<!-- === Ashby — Tracked Company: Synthesia (2026-09-19) === -->
+- [ ] https://jobs.ashbyhq.com/synthesia/f7a77b1b-e458-497c-8c76-d33a114bec04 | Synthesia | Senior Frontend Engineer, Design System
+
+<!-- === Ashby — Tracked Company: Zapier (2026-09-19) === -->
+- [ ] https://jobs.ashbyhq.com/zapier/b5ae5079-98d8-480c-ae34-04dccaf53235 | Zapier | Software Engineer, Frontend-leaning Fullstack or Frontend (Workflow Zone)
+- [ ] https://jobs.ashbyhq.com/zapier/02f4c472-9f35-46ce-88d4-0c0bf01913f2 | Zapier | Sr. Fullstack Engineer, Identity Platform
+- [ ] https://jobs.ashbyhq.com/zapier/3b8a542f-3a15-451d-b3b8-79f0159b079f | Zapier | Sr. Software Engineer, Fullstack or Backend (Workflow Zone)
+- [ ] https://jobs.ashbyhq.com/zapier/297ef4c6-9629-47e4-a06a-2893abc6f2ac | Zapier | Sr. Software Engineer, Enterprise Zone (Backend & Full Stack)
+
+<!-- === Ashby — Tracked Company: Langfuse (2026-09-19) === -->
+- [ ] https://jobs.ashbyhq.com/langfuse/70495b02-82dd-4495-9e60-c5537a9602c8 | Langfuse | Senior Frontend Engineer
+
+<!-- === Ashby — Tracked Company: Linear (2026-09-19) === -->
+- [ ] https://jobs.ashbyhq.com/Linear/cd5ae036-0223-427a-b038-ba16ef9dcb32 | Linear | Senior / Staff Fullstack Engineer
+
+<!-- === Lever — Senior Frontend (2026-09-19) === -->
+- [ ] https://jobs.lever.co/smart-working-solutions/e3e9506e-8fe9-45fd-b703-bd4b3d85dbbc | Smart Working Solutions | Founding Engineer – Full-Stack (Remote)
+
+<!-- === Lever — Tracked Company: Spotify (2026-09-19) === -->
+- [ ] https://jobs.lever.co/spotify/6cd45243-8674-4313-8405-a5a0734122f6 | Spotify | Senior Full Stack Engineer - WhoSampled
+- [ ] https://jobs.lever.co/spotify/69524356-88f8-4a8e-b543-0198670e4ceb | Spotify | Full Stack Engineer - Podcast
+- [ ] https://jobs.lever.co/spotify/514d9f1b-c930-4945-88db-e7fda5f18b76 | Spotify | Fullstack Engineer - Podcast
+
+<!-- === Lever — Tracked Company: Mistral AI (2026-09-19) === -->
+- [ ] https://jobs.lever.co/mistral/305432ef-27ac-4012-a893-a662813ac6e9 | Mistral AI | Software Engineer, Frontend
+
+<!-- === Lever — Tracked Company: Pigment (2026-09-19) === -->
+- [ ] https://jobs.lever.co/pigment/24e3e6d8-56a3-4917-acbe-ec85d0c8cf13 | Pigment | Senior Frontend Software Engineer
+- [ ] https://jobs.lever.co/pigment/cb04a184-0756-461c-b4b3-58f779a82b09 | Pigment | Senior Frontend Engineer (UK)
+- [ ] https://jobs.lever.co/pigment/d4f42533-dabb-49c5-9846-24abbb3f61d8 | Pigment | Senior Fullstack Software Engineer
+- [ ] https://jobs.lever.co/pigment/bbb9ea1a-fbb2-44ca-9195-770199323725 | Pigment | Front-end Engineer
+
+<!-- === Greenhouse — Tracked Company: Contentful (2026-09-19) === -->
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7278186 | Contentful | Senior Solution Engineer
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7875509 | Contentful | Full Stack Software Engineer III
+
+<!-- === Greenhouse — Tracked Company: Airtable (2026-09-19) === -->
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8397228002 | Airtable | Software Engineer, Product Frontend (8+ YOE)
+
+<!-- === Greenhouse — Tracked Company: Intercom (2026-09-19) === -->
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7274831 | Intercom | Senior Full Stack Engineer - Team Web
+
+<!-- === Greenhouse — Fullstack (2026-09-19) === -->
+- [ ] https://job-boards.greenhouse.io/staffbase/jobs/8730116002 | Staffbase | Senior Fullstack Engineer - Custom Solutions
