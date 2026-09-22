@@ -644,3 +644,68 @@
 
 <!-- === Greenhouse — Fullstack (2026-09-19) === -->
 - [ ] https://job-boards.greenhouse.io/staffbase/jobs/8730116002 | Staffbase | Senior Fullstack Engineer - Custom Solutions
+
+<!-- === SCAN 2026-09-22 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Ashby — Tracked Company: Zapier (2026-09-22) === -->
+- [ ] https://jobs.ashbyhq.com/zapier/25838741-078a-43ba-afbb-435d926c74c1 | Zapier | Sr. Engineer, Frontend (UX Eng)
+- [ ] https://jobs.ashbyhq.com/zapier/15a66155-32c2-466a-a6cb-7cf554727d11 | Zapier | Software Engineer, Enterprise Zone (Backend & Full Stack)
+
+<!-- === Ashby — Tracked Company: Lovable (2026-09-22) === -->
+- [ ] https://jobs.ashbyhq.com/lovable/581951b9-537e-49d5-89fb-dd74cdf3256c | Lovable | Fullstack Growth Engineer
+
+<!-- === Ashby — Tracked Company: Mistral (2026-09-22) === -->
+- [ ] https://jobs.ashbyhq.com/mistral.ai/c0d319b2-eeef-471f-b4b1-db1f6c56289c | Mistral AI | Software Engineer, Frontend
+- [ ] https://jobs.ashbyhq.com/mistral.ai/d1887bfd-8d44-46d6-b253-cadc1b1aeb11 | Mistral AI | Applied AI Engineer, Fullstack Software Engineer - EMEA
+
+<!-- === Ashby — Tracked Company: Attio (2026-09-22) === -->
+- [ ] https://jobs.ashbyhq.com/attio/a92d345f-da66-426a-93df-983939c6972b | Attio | Senior Product Engineer [Frontend]
+
+<!-- === Ashby — Senior Frontend (2026-09-22) === -->
+- [ ] https://jobs.ashbyhq.com/close/8b67d1fa-5852-4f7d-b8c2-cedc20b16da7 | Close | Senior Software Engineer – Frontend/React
+- [ ] https://jobs.ashbyhq.com/supabase/f048dd68-63f8-4f98-9860-3d5a43c09a01 | Supabase | Frontend Engineer
+- [ ] https://jobs.ashbyhq.com/zeely/1dd74b9d-6488-4434-bb48-958141508d15 | Zeely | Senior Frontend Developer (React.js)
+
+<!-- === Ashby — Engineering Lead — Frontend (2026-09-22) === -->
+- [ ] https://jobs.ashbyhq.com/beaconai/c064bc47-4905-450e-994f-d465e405bb6f | Beacon AI | Lead Software Engineer, Frontend/Web App
+- [ ] https://jobs.ashbyhq.com/i6/892dc6ec-5ebb-4806-a3dc-012d7d8d1e7f | i6 Group | Tech Lead - Full Stack (Node, TypeScript, React)
+
+<!-- === Greenhouse — Design Systems & DX (2026-09-22) === -->
+- [ ] https://job-boards.greenhouse.io/verkada/jobs/5108536007 | Verkada | Staff Frontend Engineer - Design Systems
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7950505 | Reddit | Senior Frontend Software Engineer - DevX
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7074359 | Reddit | Staff Frontend Software Engineer, Reddit Answers
+
+<!-- === Greenhouse — Fullstack (2026-09-22) === -->
+- [ ] https://job-boards.greenhouse.io/metronome/jobs/5080828008 | Metronome | Software Engineer, Fullstack (Frontend-focused)
+- [ ] https://job-boards.greenhouse.io/alt/jobs/7550421003 | Alt | Senior Fullstack Engineer, Frontend
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5026013008 | Cresta | Senior Full Stack Engineer - Conversation Intelligence
+
+<!-- === Greenhouse — Tracked Company: Contentful (2026-09-22) === -->
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7493809 | Contentful | Solution Engineer
+
+<!-- === Greenhouse — Engineering Lead — Frontend (2026-09-22) === -->
+- [ ] https://job-boards.greenhouse.io/boulevard/jobs/4615561006 | Boulevard | Engineering Manager, Frontend Experience
+- [ ] https://job-boards.greenhouse.io/nearform/jobs/7742643003 | Nearform | Technical Lead - React (Perm, Canada, Remote)
+- [ ] https://job-boards.greenhouse.io/gympass/jobs/8231119002 | Wellhub | Tech Lead Frontend Software Engineer
+- [ ] https://job-boards.greenhouse.io/axs/jobs/8519885002 | AXS | Lead Software Engineer - Front End
+- [ ] https://job-boards.greenhouse.io/gympass/jobs/8439001002 | Wellhub | Frontend Manager Software Engineer
+- [ ] https://job-boards.greenhouse.io/lumimeds/jobs/4088605009 | Lumimeds | Senior / Lead Frontend Engineer
+
+<!-- === Lever — Senior Frontend (2026-09-22) === -->
+- [ ] https://jobs.lever.co/bluelightconsulting/c6cd2838-4d84-4116-9b33-92976b159c3b | Bluelight Consulting | Senior Python/Flask+React Fullstack Engineer
+- [ ] https://jobs.lever.co/veeva/866d4776-9d23-4311-ab16-4ebff725984d | Veeva Systems | Senior Frontend Engineer - React (Remote)
+
+<!-- === Lever — Tracked Company: Spotify (2026-09-22) === -->
+- [ ] https://jobs.lever.co/spotify/9ce12867-8c84-40c5-be40-d8831ab98925 | Spotify | Frontend Engineer - Music
+- [ ] https://jobs.lever.co/spotify/74c04c1a-afe8-4616-be68-ae452daed595 | Spotify | Full Stack Engineer
+
+<!-- === Lever — Tracked Company: Pigment (2026-09-22) === -->
+- [ ] https://jobs.lever.co/pigment/4c49978c-2aff-45cb-add9-921c8fc41b2b | Pigment | Engineering Manager - Front-end background
+
+<!-- === Lever — Engineering Lead — Frontend (2026-09-22) === -->
+- [ ] https://jobs.lever.co/termgrid/b8624356-536c-404a-ba33-8b4ef45a0796 | Termgrid | Lead Frontend Developer (Remote)
+- [ ] https://jobs.lever.co/fullscript/2f79c201-1fbc-42cc-bafa-6caf11ff5889 | Fullscript | Engineering Manager, Patient Experience
+- [ ] https://jobs.lever.co/askfavor/de9aa67b-011c-4e0f-ba47-1c42bc963129 | Favor | Engineering Manager
+- [ ] https://jobs.lever.co/luxurypresence/a67ee678-19d6-4256-99be-6547235db23c | Luxury Presence | Engineering Manager, Maps & Search (Remote)
