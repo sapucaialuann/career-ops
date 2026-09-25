@@ -709,3 +709,61 @@
 - [ ] https://jobs.lever.co/fullscript/2f79c201-1fbc-42cc-bafa-6caf11ff5889 | Fullscript | Engineering Manager, Patient Experience
 - [ ] https://jobs.lever.co/askfavor/de9aa67b-011c-4e0f-ba47-1c42bc963129 | Favor | Engineering Manager
 - [ ] https://jobs.lever.co/luxurypresence/a67ee678-19d6-4256-99be-6547235db23c | Luxury Presence | Engineering Manager, Maps & Search (Remote)
+
+<!-- === SCAN 2026-09-25 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Ashby — Senior Frontend (2026-09-25) === -->
+- [ ] https://jobs.ashbyhq.com/magentic/31cdb166-52cd-4313-8d1f-8cc8052a8878 | Magentic | Senior Frontend Engineer
+
+<!-- === Ashby — Solutions Engineer (2026-09-25) === -->
+- [ ] https://jobs.ashbyhq.com/clickup/1e8c7f3d-3cd6-4393-b17f-6a858f480ba9 | ClickUp | Strategic Solutions Engineer
+
+<!-- === Ashby — Design Systems & DX (2026-09-25) === -->
+- [ ] https://jobs.ashbyhq.com/perplexity/78675022-c4a7-41d2-9259-7c59be4de93c | Perplexity | Software Engineer, Design System
+
+<!-- === Ashby — Tracked Company: Zapier (2026-09-25) === -->
+- [ ] https://jobs.ashbyhq.com/zapier/dbaf2bb8-647d-461e-bc2d-a17d96d6a5e3 | Zapier | Engineer, Fullstack (Editor AI)
+
+<!-- === Ashby — Tracked Company: n8n (2026-09-25) === -->
+- [ ] https://jobs.ashbyhq.com/n8n/788662b7-6b2b-4b07-b466-bf131fd95d08 | n8n | Senior Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/n8n/e317dc86-e0b8-4d85-9f87-eb11daa05f55 | n8n | Senior Product Engineer (TypeScript/Vue/Node.js)
+
+<!-- === Greenhouse — Senior Frontend (2026-09-25) === -->
+- [ ] https://job-boards.greenhouse.io/seed/jobs/8001105003 | Seed | Senior Frontend Engineer
+
+<!-- === Greenhouse — Fullstack (2026-09-25) === -->
+- [ ] https://job-boards.greenhouse.io/figma/jobs/5691911004 | Figma | Software Engineer, Full Stack
+
+<!-- === Greenhouse — Design Systems & DX (2026-09-25) === -->
+- [ ] https://job-boards.greenhouse.io/machinifyinc/jobs/4194876009 | Machinify | Staff Software Engineer, Frontend
+
+<!-- === Greenhouse — Solutions Engineer (2026-09-25) === -->
+- [ ] https://job-boards.greenhouse.io/ondofinance/jobs/4317658009 | Ondo Finance | Solutions Engineer, APAC
+
+<!-- === Greenhouse — Tracked Company: Contentful (2026-09-25) === -->
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7905720 | Contentful | Full Stack Engineer - Analytics
+
+<!-- === Greenhouse — Tracked Company: Airtable (2026-09-25) === -->
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8397137002 | Airtable | Software Engineer, Product Frontend (2-8 YOE)
+
+<!-- === Greenhouse — Tracked Company: Intercom (2026-09-25) === -->
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7215000 | Intercom | Staff Frontend Engineer
+
+<!-- === Lever — Fullstack & Frontend (2026-09-25) === -->
+- [ ] https://jobs.lever.co/smart-working-solutions/f26595de-8dda-4487-a9f5-417e637d3433 | Smart Working Solutions | Founding Engineer – Full-Stack Generalist
+
+<!-- === Lever — Solutions & Consulting (2026-09-25) === -->
+- [ ] https://jobs.lever.co/pelmorex/5622c1ae-57da-4ecd-97f6-615fc3b1a247 | Pelmorex | Solutions Engineer
+
+<!-- === Lever — Tracked Company: Mistral AI (2026-09-25) === -->
+- [ ] https://jobs.lever.co/mistral/aceffeba-c4e9-4b3b-adff-e7e78b986c5c | Mistral AI | Applied AI Engineer, Fullstack - EMEA
+
+<!-- === Workable — Frontend & Fullstack (2026-09-25) === -->
+- [ ] https://apply.workable.com/qodeworld/j/34BB72E92B | Qode | Senior Fullstack Engineer (ReactJS/Java)
+- [ ] https://apply.workable.com/renewhome/j/3D812FA076 | Renew Home | Senior Engineer, Fullstack
+
+<!-- === RemoteFront — Frontend & Fullstack (2026-09-25) === -->
+- [ ] https://www.remotefront.com/remote-jobs/leanix-senior-fullstack-engineer-f-m-d-angular-kotlin-wc8jg | LeanIX | Senior Fullstack Engineer (Angular/Kotlin)
+- [ ] https://www.remotefront.com/remote-jobs/ten-mile-square-technologies-full-stack-typescript-developer-nh9fj | Ten Mile Square Technologies | Full Stack TypeScript Developer
