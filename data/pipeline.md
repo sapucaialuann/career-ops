@@ -767,3 +767,17 @@
 <!-- === RemoteFront — Frontend & Fullstack (2026-09-25) === -->
 - [ ] https://www.remotefront.com/remote-jobs/leanix-senior-fullstack-engineer-f-m-d-angular-kotlin-wc8jg | LeanIX | Senior Fullstack Engineer (Angular/Kotlin)
 - [ ] https://www.remotefront.com/remote-jobs/ten-mile-square-technologies-full-stack-typescript-developer-nh9fj | Ten Mile Square Technologies | Full Stack TypeScript Developer
+
+<!-- === SCAN 2026-09-28 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Greenhouse — Fullstack (2026-09-28) === -->
+- [ ] https://job-boards.greenhouse.io/devtechnology/jobs/8758658002 | Dev Technology | Senior Full Stack Developer (React, Node, AWS & Agentic AI)
+
+<!-- === Lever — Senior Frontend (2026-09-28) === -->
+- [ ] https://jobs.lever.co/jobgether/ef629eb2-5781-43d9-85eb-8d55bf35bd3b | Jobgether | Senior Frontend Engineer
+- [ ] https://jobs.lever.co/virtualitics/5dbf8f25-0344-4c67-86db-661becf4f8c9 | Virtualitics | Senior Frontend Engineer
+
+<!-- === Lever — Engineering Lead / Tracked Company: Pigment (2026-09-28) === -->
+- [ ] https://jobs.lever.co/pigment/53ed8643-ced2-410a-83df-8448e5c4a674 | Pigment | Engineering Manager - Front-end background (UK)
