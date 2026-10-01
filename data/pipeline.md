@@ -781,3 +781,33 @@
 
 <!-- === Lever — Engineering Lead / Tracked Company: Pigment (2026-09-28) === -->
 - [ ] https://jobs.lever.co/pigment/53ed8643-ced2-410a-83df-8448e5c4a674 | Pigment | Engineering Manager - Front-end background (UK)
+
+<!-- === SCAN 2026-10-01 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Lever — Senior Frontend (2026-10-01) === -->
+- [ ] https://jobs.lever.co/relay/08053706-31b5-4fe1-9546-ad04b9cb0140 | Relay | Senior Frontend Developer (React, TypeScript)
+- [ ] https://jobs.lever.co/jobgether/1dcda9cd-177c-4efa-a7f4-4a9bf30660d2 | Jobgether | Staff Frontend Engineer
+
+<!-- === Lever — Solutions & Consulting (2026-10-01) === -->
+- [ ] https://jobs.lever.co/swiftconnect/cb1bb5bf-92ab-45ad-9c00-b5c2a0cec4f8 | SwiftConnect | Solutions Engineer
+- [ ] https://jobs.lever.co/jobgether/e91f7b74-172f-4e68-ac1e-c147b0f3a5ac | Jobgether | Solutions Engineer
+- [ ] https://jobs.lever.co/jobgether/f9dce5c3-eb40-4e85-a4b9-a952a72d1e36 | Jobgether | Lead Solutions Engineer
+- [ ] https://jobs.lever.co/jobgether/6597d193-1a50-4dd9-a3a3-8e31bdefe4f9 | Jobgether | Senior Solutions Engineer
+
+<!-- === Greenhouse — Solutions Engineer (2026-10-01) === -->
+- [ ] https://job-boards.greenhouse.io/kargo/jobs/4000545004 | Kargo | Solutions Engineer
+
+<!-- === Greenhouse — Design Systems & DX (2026-10-01) === -->
+- [ ] https://job-boards.greenhouse.io/datacamp/jobs/7741105 | DataCamp | Senior Frontend Platform Engineer (Portugal/Remote)
+- [ ] https://job-boards.greenhouse.io/glia/jobs/5600755004 | Glia | Front-End Software Engineer, Platform
+
+<!-- === Berlin — Frontend (2026-10-01) === -->
+- [ ] https://www.arbeitnow.com/jobs/companies/forteil-gmbh-bonify/senior-staff-engineer-frontend-web-mobile-berlin-494170 | bonify | Staff Frontend Engineer (Web & Mobile) — Berlin
+- [ ] https://arbeitnow.com/jobs/companies/qdrant/senior-frontend-engineer-saas-platform-berlin-361003 | Qdrant | Senior Frontend Engineer — Berlin
+
+<!-- === Berlin — Fullstack (2026-10-01) === -->
+- [ ] https://careers.smartclip.tv/jobs/7130731-senior-full-stack-software-engineer-f-m-d-react-node-js | smartclip | Senior Full Stack Software Engineer (React/Node.js) — Berlin
+- [ ] https://www.arbeitnow.com/jobs/companies/glassdollar/remote-senior-full-stack-engineer-react-nodejs-46963 | GlassDollar | Senior Full Stack Engineer (React/Node.js, freelance/remote)
+- [ ] https://www.arbeitnow.com/jobs/companies/coding-partners/senior-full-stack-engineer-berlin-391720 | Coding Partners | Senior Full Stack Engineer — Berlin
