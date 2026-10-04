@@ -811,3 +811,35 @@
 - [ ] https://careers.smartclip.tv/jobs/7130731-senior-full-stack-software-engineer-f-m-d-react-node-js | smartclip | Senior Full Stack Software Engineer (React/Node.js) — Berlin
 - [ ] https://www.arbeitnow.com/jobs/companies/glassdollar/remote-senior-full-stack-engineer-react-nodejs-46963 | GlassDollar | Senior Full Stack Engineer (React/Node.js, freelance/remote)
 - [ ] https://www.arbeitnow.com/jobs/companies/coding-partners/senior-full-stack-engineer-berlin-391720 | Coding Partners | Senior Full Stack Engineer — Berlin
+
+<!-- === SCAN 2026-10-04 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Greenhouse — Senior Frontend (2026-10-04) === -->
+- [ ] https://boards.greenhouse.io/neptuneai/jobs/4250181101 | Neptune AI | Staff Frontend Software Engineer
+
+<!-- === Greenhouse — Design Systems & DX (2026-10-04) === -->
+- [ ] https://job-boards.greenhouse.io/circleso/jobs/4930763008 | Circle | Senior Front-End Software Engineer, Design Systems
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7767718 | Reddit | Senior Web Engineer, UI Platform
+
+<!-- === Greenhouse — Solutions Engineer (2026-10-04) === -->
+- [ ] https://job-boards.greenhouse.io/youcom/jobs/4921484003 | You.com | Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/kargo/jobs/5250582004 | Kargo | Solutions Engineer
+
+<!-- === Lever — Senior Frontend (2026-10-04) === -->
+- [ ] https://jobs.lever.co/jobgether/7d595bf7-414c-4410-920e-932a5ee4b5ac | Jobgether | Senior Frontend Engineer (React)
+- [ ] https://jobs.lever.co/jobgether/771d8bdc-9444-43c6-8af5-e3dcf0063d7c | Jobgether | Senior Frontend Engineer (React)
+- [ ] https://jobs.lever.co/jobgether/242e4ebb-b65e-4ec2-880e-b6e23804e440 | Jobgether | Sr. Frontend Engineer (React)
+- [ ] https://jobs.lever.co/jobgether/e683f849-83fd-4ba6-967d-659522c74ca1 | Jobgether | Senior Frontend Engineer
+- [ ] https://jobs.lever.co/jobgether/de968a1f-215f-47db-8066-78d3eec0cd3e | Jobgether | Senior Frontend Engineer
+- [ ] https://jobs.lever.co/jobgether/e9dd369c-9e26-4467-ad8e-5c07a9c62acb | Jobgether | Senior Frontend Engineer
+- [ ] https://jobs.lever.co/jobgether/2e33a3fa-2eba-46b2-9aa4-e0ceed137b92 | Jobgether | Senior Frontend Engineer
+- [ ] https://jobs.lever.co/jobgether/2e8030f1-5713-4127-a4af-e2c0356f1311 | Jobgether | Senior Frontend Engineer
+
+<!-- === Berlin — Frontend (2026-10-04) === -->
+- [ ] https://jobs.lever.co/researchgate/a58316f8-dc9b-4c2e-8d2a-49e87f8e3526 | ResearchGate | Senior Frontend Engineer - React — Berlin (hybrid)
+
+<!-- === Engineering Lead — Frontend (2026-10-04) === -->
+- [ ] https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-tech-lead-agent-frontend-berlin-217593 | Recare | Remote Tech Lead Frontend — Berlin
+- [ ] https://arbeitnow.com/jobs/companies/liveeo-gmbh/tech-lead-full-stack-engineer-liveeo-gmbh-berlin-office-hybrid-73783 | LiveEO | Tech Lead Full-Stack Engineer — Berlin (hybrid)
