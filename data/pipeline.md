@@ -843,3 +843,20 @@
 <!-- === Engineering Lead — Frontend (2026-10-04) === -->
 - [ ] https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-tech-lead-agent-frontend-berlin-217593 | Recare | Remote Tech Lead Frontend — Berlin
 - [ ] https://arbeitnow.com/jobs/companies/liveeo-gmbh/tech-lead-full-stack-engineer-liveeo-gmbh-berlin-office-hybrid-73783 | LiveEO | Tech Lead Full-Stack Engineer — Berlin (hybrid)
+
+<!-- === SCAN 2026-10-07 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Greenhouse — Tracked Company: Vercel (2026-10-07) === -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5409934004 | Vercel | Partner Solutions Engineering, EMEA (London/Berlin)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5553789004 | Vercel | Senior Partner Solutions Engineer
+
+<!-- === Greenhouse — Design Systems & DX (2026-10-07) === -->
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7560532003 | Postman | Senior Software Engineer, Client Platform
+
+<!-- === Lever — Solutions & Consulting (2026-10-07) === -->
+- [ ] https://jobs.lever.co/jobgether/f6d4700d-4fae-4eeb-98e8-93391d9e04c3 | Jobgether | Federal Solution Engineer (US)
+
+<!-- === Tracked Company: Factorial (2026-10-07) === -->
+- [ ] https://careers.factorialhr.com/job_posting/senior-full-stack-developer-growth-team-249236 | Factorial | Senior Full Stack Developer (Growth Team) — Barcelona/Remote
