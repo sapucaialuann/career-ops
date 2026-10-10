@@ -860,3 +860,11 @@
 
 <!-- === Tracked Company: Factorial (2026-10-07) === -->
 - [ ] https://careers.factorialhr.com/job_posting/senior-full-stack-developer-growth-team-249236 | Factorial | Senior Full Stack Developer (Growth Team) — Barcelona/Remote
+
+<!-- === SCAN 2026-10-10 === -->
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/6360497 | Contentful | Senior Frontend Engineer - Studio (Berlin/hybrid)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7010805 | Contentful | Full Stack Engineer (Berlin)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7214999 | Intercom | Senior Full Stack Engineer
+- [ ] https://jobs.lever.co/spotify/d176f19b-a0b3-4718-b5c0-58827bb04947 | Spotify | Senior Fullstack Engineer - Data Platform
+- [ ] https://job-boards.eu.greenhouse.io/remotepeople/jobs/4796153101 | Remote People | Senior Full Stack Engineer (Portugal)
+- [ ] https://www.ziprecruiter.de/jobs/574322435-senior-frontend-engineer-bei-clera | Clera | Senior Frontend Engineer (Berlin)
