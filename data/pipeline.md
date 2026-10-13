@@ -868,3 +868,35 @@
 - [ ] https://jobs.lever.co/spotify/d176f19b-a0b3-4718-b5c0-58827bb04947 | Spotify | Senior Fullstack Engineer - Data Platform
 - [ ] https://job-boards.eu.greenhouse.io/remotepeople/jobs/4796153101 | Remote People | Senior Full Stack Engineer (Portugal)
 - [ ] https://www.ziprecruiter.de/jobs/574322435-senior-frontend-engineer-bei-clera | Clera | Senior Frontend Engineer (Berlin)
+
+<!-- === SCAN 2026-10-13 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Tracked Company: Qonto (2026-10-13) === -->
+- [ ] https://jobs.lever.co/qonto/2ec33be8-037e-4fd4-9352-12e10466f24a | Qonto | Senior/Staff Frontend Engineer (React) — Remote friendly (EU)
+
+<!-- === Greenhouse — Solutions Engineering (2026-10-13) === -->
+- [ ] https://job-boards.greenhouse.io/conductor-by-sensei-labs/jobs/6642261003 | Conductor | Solutions Engineer — Europe/Middle East (remote)
+- [ ] https://job-boards.greenhouse.io/ddome/jobs/8365864002 | DataDome | Solutions Engineer — DACH (Germany)
+
+<!-- === Lever — Senior Frontend (Jobgether, 2026-10-13) === -->
+- [ ] https://jobs.lever.co/jobgether/02c64937-ea99-4b64-ad4c-27c9cc2c2efb | Jobgether | Senior Frontend Engineer — Germany (remote)
+- [ ] https://jobs.lever.co/jobgether/771d8bdc-9444-43c6-8af5-e3dcf0063d7c | Jobgether | Senior Frontend Engineer (React) — UK (remote)
+- [ ] https://jobs.lever.co/jobgether/49331ea0-fff8-4898-9c7d-802f3f253bc7 | Jobgether | Senior Frontend Engineer — Upload & Stream (remote)
+- [ ] https://jobs.lever.co/jobgether/7d595bf7-414c-4410-920e-932a5ee4b5ac | Jobgether | Senior Frontend Engineer (React) — EU (remote)
+
+<!-- === Lever — Solutions Engineering (2026-10-13) === -->
+- [ ] https://jobs.lever.co/360learning/d01a8dd5-1316-4df2-8ce3-9d6b7caf94a7 | 360Learning | Solutions Engineer DACH — Berlin/Remote (German required)
+- [ ] https://jobs.lever.co/jobgether/32ff37cf-3d59-4470-ba55-d6684cd101f5 | Jobgether | Enterprise Solutions Engineer — Nordics (remote)
+- [ ] https://jobs.lever.co/jobgether/deae7ee3-11a2-4074-9866-0dfaadbfcf55 | Jobgether | Solutions Engineer, Service Provider — EU (remote)
+
+<!-- === Greenhouse — Tech Lead & Fullstack (2026-10-13) === -->
+- [ ] https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4647610101 | BrainRocket | Frontend Tech Lead (React) — Lisbon (onsite)
+
+<!-- === Other Boards — Fullstack & Automation (2026-10-13) === -->
+- [ ] https://topi.jobs.personio.com/job/2636921 | Topi | Senior Full Stack Engineer — Berlin/Madrid/Remote (CET)
+- [ ] https://careers.smartclip.tv/jobs/7130731-senior-full-stack-software-engineer-f-m-d-react-node-js | smartclip | Senior Full Stack Software Engineer (React/Node.js) — Berlin/Remote
+- [ ] https://glassdollar.jobs.personio.de/job/2336948 | glassdollar | Senior Full Stack Engineer — Berlin/Remote
+- [ ] https://careers.n-ix.com/jobs/4308225101-automation-qc-senior | N-iX | Senior Automation Test Engineer (JS/Cypress) — Europe/Remote
+- [ ] https://careers.bsport.io/jobs/6432525-senior-frontend-engineer | Bsport | Senior Frontend Engineer — Barcelona (hybrid)
