@@ -900,3 +900,43 @@
 - [ ] https://glassdollar.jobs.personio.de/job/2336948 | glassdollar | Senior Full Stack Engineer — Berlin/Remote
 - [ ] https://careers.n-ix.com/jobs/4308225101-automation-qc-senior | N-iX | Senior Automation Test Engineer (JS/Cypress) — Europe/Remote
 - [ ] https://careers.bsport.io/jobs/6432525-senior-frontend-engineer | Bsport | Senior Frontend Engineer — Barcelona (hybrid)
+
+<!-- === SCAN 2026-10-16 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Ashby — Senior Frontend (2026-10-16) === -->
+- [ ] https://jobs.ashbyhq.com/8returns/d5615754-6350-4d70-b04f-79fc59ae086d | 8returns GmbH | Senior Frontend Engineer (TypeScript) — Berlin hybrid
+- [ ] https://jobs.ashbyhq.com/squads/0d1e98d2-ac92-455d-a6a2-ed537133de00 | Squads | Senior Frontend Engineer
+- [ ] https://jobs.ashbyhq.com/umbrel/dc4ce904-4340-4fe0-b2c0-eacfa970bcb3 | Umbrel | Senior Frontend Engineer
+- [ ] https://jobs.ashbyhq.com/whiskeylibrary/9d32bf12-4d81-4c8b-bfa8-862da9443b2a | Whiskey Library | Senior Frontend Developer
+- [ ] https://jobs.ashbyhq.com/gridverify/36c3d721-9a2c-4960-99c0-6fce975766cb | Grid | Senior Frontend Engineer
+- [ ] https://jobs.ashbyhq.com/taekus/16d5f7be-28d7-4535-bc6c-31cefe3906b0 | Taekus | Senior Frontend Engineer (US only)
+
+<!-- === Ashby — Fullstack (2026-10-16) === -->
+- [ ] https://jobs.ashbyhq.com/limbic/295c12ae-bc94-4d6b-9d0b-22eec820917f | Limbic | Senior Full-stack Engineer (Europe TZ)
+- [ ] https://jobs.ashbyhq.com/procurify/df756341-fcc6-4b36-9f44-95ccc6239ebb | Procurify | Senior Frontend Engineer
+
+<!-- === Ashby — Design Systems (2026-10-16) === -->
+- [ ] https://jobs.ashbyhq.com/assembledhq/81c159cf-ad96-46af-97a1-c08eb415dbfb | Assembled | Frontend Engineer (onsite SF/NYC)
+
+<!-- === Greenhouse — Senior Frontend (2026-10-16) === -->
+- [ ] https://job-boards.greenhouse.io/packlink/jobs/6652183003 | Packlink | Senior Software Engineer (Frontend) — Remote Spain
+- [ ] https://job-boards.greenhouse.io/profiletechnologiesinc/jobs/4602531008 | Profile Technologies | Senior Frontend Engineer (react)
+- [ ] https://boards.greenhouse.io/cortex/jobs/4249244008 | Cortex | Senior Frontend Engineer (US remote)
+- [ ] https://job-boards.eu.greenhouse.io/yld/jobs/4551473101 | YLD | Senior Frontend Engineer (contract, EU/Remote)
+
+<!-- === Lever — Senior Frontend (Jobgether, 2026-10-16) === -->
+- [ ] https://jobs.lever.co/jobgether/cbb9aaf4-7f73-4063-9eec-79726b93418a | Jobgether | Senior Frontend Engineer (Germany remote)
+- [ ] https://jobs.lever.co/jobgether/1e0a68ed-e939-4b43-a709-ec33196ee9a2 | Jobgether | Senior Software Engineer (Frontend)
+- [ ] https://jobs.lever.co/jobgether/4a64f8b8-e6ad-4494-ab07-5644e249a5f4 | Jobgether | Senior Front end Developer
+- [ ] https://jobs.lever.co/jobgether/e02cbdcf-a298-436d-9d77-1191108b2218 | Jobgether | Senior Frontend Engineer
+- [ ] https://jobs.lever.co/jobgether/be5259c2-a195-4b47-a1e5-ec16f7dbec63 | Jobgether | Senior Software Engineer - Frontend (Upload & Stream, UK)
+
+<!-- === Lever — Fullstack (Jobgether, 2026-10-16) === -->
+- [ ] https://jobs.lever.co/jobgether/a8a71117-2412-4ef8-b4e8-4ac41600054d | Jobgether | Senior Software Engineer, Fullstack (US remote)
+- [ ] https://jobs.lever.co/jobgether/f809c6a9-94c6-4ae9-bded-cc18b8e4d79f | Jobgether | Senior Software Engineer (Fullstack/TypeScript)
+
+<!-- === Berlin — Frontend (2026-10-16) === -->
+- [ ] https://www.arbeitnow.com/jobs/companies/clera/senior-frontend-engineer-berlin-448832 | Clera | Senior Frontend Engineer — Berlin (remote-friendly EU, €90K–€160K)
+- [ ] https://www.arbeitnow.com/jobs/companies/thomannio/senior-frontend-engineer-storefront-in-tech-data-team-berlin-343469 | Thomann.io | Senior Frontend Engineer - Storefront — Berlin/Remote
