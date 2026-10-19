@@ -940,3 +940,29 @@
 <!-- === Berlin — Frontend (2026-10-16) === -->
 - [ ] https://www.arbeitnow.com/jobs/companies/clera/senior-frontend-engineer-berlin-448832 | Clera | Senior Frontend Engineer — Berlin (remote-friendly EU, €90K–€160K)
 - [ ] https://www.arbeitnow.com/jobs/companies/thomannio/senior-frontend-engineer-storefront-in-tech-data-team-berlin-343469 | Thomann.io | Senior Frontend Engineer - Storefront — Berlin/Remote
+
+<!-- === SCAN 2026-10-19 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+<!-- Note: New source added — jobs.zalando.com (Zalando careers, not previously tracked). -->
+
+<!-- === Ashby — Senior Frontend (2026-10-19) === -->
+- [ ] https://jobs.ashbyhq.com/trading212/86e40e1c-f276-40f8-8dfc-91f7710447cd | Trading212 | Senior Frontend Engineer (React + React Native)
+- [ ] https://jobs.ashbyhq.com/clickup/0cb4e985-a3fa-4b96-8441-3471bcdeb5af | ClickUp | Senior Frontend Engineer (Angular/React/TypeScript)
+- [ ] https://jobs.ashbyhq.com/pebl/06d0ba4a-d67d-45d0-9585-a8a68caa76cc | Pebl | Senior Frontend Software Engineer, AI UX
+
+<!-- === Ashby — Fullstack (2026-10-19) === -->
+- [ ] https://jobs.ashbyhq.com/upvest/bc9437fe-dd30-4ed1-be0c-eed956360476 | Upvest | Senior Fullstack Engineer (f/m/d) — Berlin/EU
+- [ ] https://jobs.ashbyhq.com/bobyard/851812e5-1251-45b6-9753-a3bed795b48c | Bobyard | Senior Fullstack Engineer
+
+<!-- === Greenhouse — Senior Frontend (2026-10-19) === -->
+- [ ] https://job-boards.greenhouse.io/openfx/jobs/5373810008 | OpenFX | Senior Frontend Engineer (L5) - Banking
+- [ ] https://job-boards.greenhouse.io/healthie/jobs/4410532009 | Healthie | Senior Frontend Engineer (LA/NYC hybrid)
+- [ ] https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4684431005 | Re:Build Manufacturing | Senior Frontend Engineer - AI Product
+
+<!-- === Zalando — Frontend (2026-10-19) === -->
+- [ ] https://jobs.zalando.com/en/jobs/2715989 | Zalando | Senior Frontend Engineer - Emerging Propositions (Helsinki/Remote)
+- [ ] https://jobs.zalando.com/en/jobs/2713182 | Zalando | Senior Frontend Engineer - Navigation and Search
+- [ ] https://jobs.zalando.com/en/jobs/2723000 | Zalando | Senior Software Engineer - Frontend (Berlin, Size and Fit)
+- [ ] https://jobs.zalando.com/en/jobs/2721861 | Zalando | Senior Front-end Engineer (all genders, TypeScript/React)
+- [ ] https://jobs.zalando.com/en/jobs/2715525 | Zalando | Senior Frontend Engineer - Content Experiences (Helsinki/Berlin)
