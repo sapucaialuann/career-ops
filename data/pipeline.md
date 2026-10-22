@@ -966,3 +966,85 @@
 - [ ] https://jobs.zalando.com/en/jobs/2723000 | Zalando | Senior Software Engineer - Frontend (Berlin, Size and Fit)
 - [ ] https://jobs.zalando.com/en/jobs/2721861 | Zalando | Senior Front-end Engineer (all genders, TypeScript/React)
 - [ ] https://jobs.zalando.com/en/jobs/2715525 | Zalando | Senior Frontend Engineer - Content Experiences (Helsinki/Berlin)
+
+<!-- === SCAN 2026-10-22 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Ashby — Senior Frontend (2026-10-22) === -->
+- [ ] https://jobs.ashbyhq.com/plentific/81e89479-f326-4b12-bf99-e0b05a0e5a7f/application | Plentific | Senior Frontend Engineer (Remote — UK/EU)
+- [ ] https://jobs.ashbyhq.com/puzzle-consulting-services/ce50e629-80f5-459b-9fd4-823fa4d53386 | Puzzle Consulting Services | Senior Frontend Engineer (Remote LATAM)
+- [ ] https://jobs.ashbyhq.com/truelogic/d923c1fb-c6f9-45ef-897c-1b2bcb9fba24 | Truelogic | Senior Frontend Engineer - Media Production
+- [ ] https://jobs.ashbyhq.com/handshake/f0267113-e730-48fa-8ae4-6f2246fc1af3 | Handshake | Senior Frontend Engineer, Enterprise AI
+- [ ] https://jobs.ashbyhq.com/atria/65c7622f-77c7-46c6-9cb5-592dc8ff6d45 | Atria | Senior Frontend Engineer
+
+<!-- === Ashby — Fullstack (2026-10-22) === -->
+- [ ] https://jobs.ashbyhq.com/acquird/86cc022a-3cd7-4f08-9a9e-57145cc1a2f9 | Acquird | Senior Full Stack Engineer (React, Python) — Canada
+- [ ] https://jobs.ashbyhq.com/taktile/c9d47dd2-3252-4266-a581-b9d1b46e9297 | Taktile | Senior Full-Stack Engineer - Team Agent
+- [ ] https://jobs.ashbyhq.com/myedspacecareers/ca25dbdb-21e9-4575-bf99-47eb4a1e1a11 | MyEdSpace | Senior Full-Stack Engineer
+- [ ] https://jobs.ashbyhq.com/creatoriq/02e9cf8f-bc0d-48bf-a066-5c46d7d7b2c5 | CreatorIQ | Senior Fullstack Engineer, Agentic Experience
+- [ ] https://jobs.ashbyhq.com/zencastr/c4c91cc0-c5f9-4773-ab04-d239f9455aee | Zencastr | Senior Fullstack Engineer (Remote)
+
+<!-- === Ashby — Solutions Engineer (2026-10-22) === -->
+- [ ] https://jobs.ashbyhq.com/cytora.com/cb594b72-5f15-4737-b92c-b9af0e03816b | Cytora | Solutions and Implementation Engineer
+- [ ] https://jobs.ashbyhq.com/katana/c0cd6d9d-93b5-420f-a8c3-3ab6becf4663/application | Katana | Senior Implementation Engineer
+- [ ] https://jobs.ashbyhq.com/popl/5dda8b68-dcba-41fe-aad8-522619e0cfc5/application | Popl | Customer Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/Mastra/05172cb0-47ec-44f9-9fe8-07d4896d10ad | Mastra | Customer Engineer
+
+<!-- === Ashby — Design Systems & DX (2026-10-22) === -->
+- [ ] https://jobs.ashbyhq.com/bubble/419d9dbe-4703-4364-b75e-58559c3572da | Bubble | Senior Software Engineer, Core Developer Experience
+- [ ] https://jobs.ashbyhq.com/langchain/1b125fc4-be24-422f-a180-30b7431fc6cf | LangChain | Senior Frontend Platform Engineer, Design Systems
+
+<!-- === Greenhouse — Senior Frontend (2026-10-22) === -->
+- [ ] https://boards.greenhouse.io/remotecom/jobs/4194047003 | Remote.com | Senior Frontend Engineer
+
+<!-- === Greenhouse — Fullstack (2026-10-22) === -->
+- [ ] https://job-boards.greenhouse.io/gofasti/jobs/6185721004 | GoFasti | Senior Full-Stack Software Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/ethos/jobs/4193091009 | Ethos | Senior/Staff Full Stack Engineer
+- [ ] https://job-boards.greenhouse.io/earnin/jobs/7927193 | EarnIn | Senior Full Stack Engineer
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8464846002 | Calendly | Senior Full Stack Engineer, AI Scheduling
+
+<!-- === Greenhouse — Solutions Engineer (2026-10-22) === -->
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/4980637007 | Harbor | Implementation Engineer - Intapp
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8515925002 | AlphaSense | Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/recidiviz/jobs/4677327006 | Recidiviz | Implementation Engineer
+- [ ] https://boards.greenhouse.io/workato/jobs/6323403002 | Workato | Platform Solutions Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/postscript/jobs/8733945002 | Postscript | Solutions Engineer
+
+<!-- === Greenhouse — Design Systems & DX (2026-10-22) === -->
+- [ ] https://job-boards.greenhouse.io/modernhealth/jobs/8606455002 | Modern Health | Staff Software Engineer, Frontend Platform
+- [ ] https://job-boards.greenhouse.io/truebill/jobs/8013696003 | Rocket Money | Software Engineer, Design Systems
+- [ ] https://job-boards.greenhouse.io/gametimeunited/jobs/5265407008 | Gametime United | Senior Front End Engineer
+
+<!-- === Lever — Senior Frontend (2026-10-22) === -->
+- [ ] https://jobs.lever.co/jobgether/c1f88b4d-a3e9-454b-b319-26bb61e61cbf | Jobgether | Senior Frontend Engineer, React/TypeScript
+- [ ] https://jobs.lever.co/xsolla/ecae48ea-b822-4944-bf17-c7e484533964 | Xsolla | Senior Frontend Engineer
+
+<!-- === Lever — Solutions & Consulting (2026-10-22) === -->
+- [ ] https://jobs.lever.co/yuno/615b33e6-e166-4c89-8153-293d466b513e | Yuno | Solutions Engineer
+- [ ] https://jobs.lever.co/workwave/8459f355-f5f1-4f30-88e1-63ba207f9d4a | WorkWave | Technical Consultant
+
+<!-- === Wellfound — Frontend (2026-10-22) === -->
+- [ ] https://wellfound.com/jobs/3826633-senior-frontend-engineer-startup-focused | Metamindz | Senior Frontend Engineer
+
+<!-- === Workable — Frontend & Fullstack (2026-10-22) === -->
+- [ ] https://apply.workable.com/little-journey/j/B623FCCAA2 | Little Journey | Senior Fullstack Software Engineer
+- [ ] https://apply.workable.com/plainconcepts/j/70430A03DD | Plain Concepts | Senior Frontend Developer (React or Angular)
+- [ ] https://apply.workable.com/modern-family-law-1/j/B173E7B33D | Modern Family Law | Senior Frontend React Engineer
+- [ ] https://apply.workable.com/mixam/j/C2CD351809 | Mixam | Senior Frontend Developer (React / TypeScript)
+
+<!-- === Berlin — Frontend (2026-10-22) === -->
+- [ ] https://join.com/companies/e-recht24/16671422-senior-frontend-engineer-react-m-w-d | eRecht24 | Senior Frontend Engineer (React) — Berlin
+
+<!-- === Automation QA (2026-10-22) === -->
+- [ ] https://www.virtualvocations.com/job/senior-qa-automation-engineer-3293804-i.html | Virtual Vocations | Senior QA Automation Engineer
+- [ ] https://www.dice.com/job-detail/61a770ef-b9b2-4d11-90bb-7ecc9950c627 | Alpha Silicon | Lead Automation Tester (Cypress, Remote)
+- [ ] https://builtin.com/job/sr-qa-automation-engineer-remote/3034370 | Builtin | Sr. QA Automation Engineer (Remote)
+
+<!-- === Engineering Lead — Frontend (2026-10-22) === -->
+- [ ] https://jaabz.com/jobs/279857-staff-frontend-engineer-frontend-architect-mfd | factfinder | Staff Frontend Architect & Design System Lead (React) — Germany
+
+<!-- === RemoteFront — Frontend & Fullstack (2026-10-22) === -->
+- [ ] https://www.remotefront.com/remote-jobs/jobgether-senior-frontend-engineer-7j9s0 | Jobgether | Senior Frontend Engineer (Remote)
+- [ ] https://www.remotefront.com/remote-jobs/arke-senior-front-end-developer-contract-r606o | Arke | Senior Front-end Developer (Contract, Remote)
+- [ ] https://www.remotefront.com/remote-jobs/mindera-senior-fullstack-software-engineer-node-js-react-4fz93 | Mindera | Senior Fullstack Software Engineer (Node.js & React)
