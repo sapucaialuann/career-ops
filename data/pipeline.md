@@ -1048,3 +1048,24 @@
 - [ ] https://www.remotefront.com/remote-jobs/jobgether-senior-frontend-engineer-7j9s0 | Jobgether | Senior Frontend Engineer (Remote)
 - [ ] https://www.remotefront.com/remote-jobs/arke-senior-front-end-developer-contract-r606o | Arke | Senior Front-end Developer (Contract, Remote)
 - [ ] https://www.remotefront.com/remote-jobs/mindera-senior-fullstack-software-engineer-node-js-react-4fz93 | Mindera | Senior Fullstack Software Engineer (Node.js & React)
+
+<!-- === SCAN 2026-10-31 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+<!-- Note: site: filter applied inconsistently by search engine — Ashby, Wellfound, Workable, RemoteFront portals returned no direct matches this cycle. -->
+
+<!-- === Greenhouse — Solutions Engineer (2026-10-31) === -->
+- [ ] https://boards.greenhouse.io/branch/jobs/5890624003 | Branch | Solutions Engineer
+
+<!-- === Greenhouse — Design Systems & DX (2026-10-31) === -->
+- [ ] https://boards.eu.greenhouse.io/digitalservice/jobs/4206017101 | Digital Service | Platform/Frontend Engineer
+
+<!-- === Berlin — Frontend (2026-10-31) === -->
+- [ ] https://www.arbeitnow.com/jobs/companies/grid/remote-frontend-engineer-berlin-79571 | Grid | Frontend Engineer (Remote, Berlin)
+
+<!-- === Berlin — Fullstack (2026-10-31) === -->
+- [ ] https://arbeitnow.com/jobs/companies/baobab-insurance/senior-full-stack-engineer-berlin-140479 | Baobab Insurance | Senior Full Stack Engineer — Berlin
+- [ ] https://jobs.lever.co/jobgether/9ad697af-8a0f-4b66-bf7b-092ea8f59ae8 | Jobgether | Senior Full-Stack Engineer
+
+<!-- === Automation Engineer — All portals (2026-10-31) === -->
+- [ ] https://themuse.com/jobs/withumsmithbrown/senior-automation-engineer-cypress | WithumSmith+Brown | Senior Automation Engineer (Cypress)
