@@ -1069,3 +1069,71 @@
 
 <!-- === Automation Engineer — All portals (2026-10-31) === -->
 - [ ] https://themuse.com/jobs/withumsmithbrown/senior-automation-engineer-cypress | WithumSmith+Brown | Senior Automation Engineer (Cypress)
+
+<!-- === SCAN 2026-11-01 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Ashby — Senior Frontend (2026-11-01) === -->
+- [ ] https://jobs.ashbyhq.com/asteriai/9a6bdb80-2d2e-47b1-97b2-bca567dd3d7b | Asteri AI | Senior Frontend Engineer
+- [ ] https://jobs.ashbyhq.com/sevenai/35f63e09-359c-46c2-a865-ff445e4e4fbd/application | Seven AI | Senior Frontend Engineer
+- [ ] https://jobs.ashbyhq.com/bunch/27056107-4602-4f63-8c91-af2ffe88eb04 | bunch | Staff Frontend Engineer
+- [ ] https://jobs.ashbyhq.com/trading212/58243576-ca1f-4622-ae7c-5ac66afb48e5 | Trading212 | Staff Frontend Engineer
+- [ ] https://jobs.ashbyhq.com/office-hours/e80923fe-f586-4dff-8ade-7811326c31a3 | Office Hours | Senior Frontend Engineer
+
+<!-- === Ashby — Fullstack (2026-11-01) === -->
+- [ ] https://jobs.ashbyhq.com/forerunner/1f748614-f428-4ea8-884b-c729231e5d40/application | Forerunner | Senior Full-Stack Engineer
+- [ ] https://jobs.ashbyhq.com/workhero/89aac721-3aa3-4aeb-b20d-8891b1a84a61 | WorkHero | Senior Software Engineer, AI Full Stack
+- [ ] https://jobs.ashbyhq.com/truelogic/037f86e7-e9b0-4c11-927b-6bc02f497a29 | Truelogic | Senior Full-stack Engineer (Python/React) - Advertising
+- [ ] https://jobs.ashbyhq.com/taktile/050f12b4-23ed-400d-bdd1-ddbc8a8d0ac5 | Taktile | Senior Full-Stack Engineer - Platform team
+
+<!-- === Ashby — Solutions Engineer (2026-11-01) === -->
+- [ ] https://jobs.ashbyhq.com/EliseAI/d400f45b-bc78-41c2-96ab-9c6c9eaecf06 | EliseAI | Solutions Engineer, Implementation & Delivery
+- [ ] https://jobs.ashbyhq.com/dash0/7c385898-c877-4824-8004-b82d1eebac9b | Dash0 | Commercial Solutions Engineer
+
+<!-- === Ashby — Design Systems & DX (2026-11-01) === -->
+- [ ] https://jobs.ashbyhq.com/pleo/e0f0059b-fb60-4d94-8d10-5fe347872a4f | Pleo | Staff Frontend Engineer - Design Systems
+- [ ] https://jobs.ashbyhq.com/Ontic/800142fe-93e2-42fd-9af4-0084ea813a41 | Ontic | Senior Software Engineer - UI
+- [ ] https://jobs.ashbyhq.com/puzzle-consulting-services/5ac0f99b-18d9-4be0-ad85-7a79b6c4efb9 | Puzzle Consulting Services | UI/UX Engineer - Remote LATAM
+
+<!-- === Greenhouse — Senior Frontend (2026-11-01) === -->
+- [ ] https://job-boards.greenhouse.io/lumimeds/jobs/4088606009 | Lumimeds | Senior / Lead Frontend Engineer (Next.js, React & Web Platforms)
+- [ ] https://job-boards.greenhouse.io/keepersecurity/jobs/4091171009 | Keeper Security | Senior Frontend Software Engineer, Web Vault
+- [ ] https://job-boards.greenhouse.io/nextleaguellc/jobs/4910022007 | Next League | Senior Frontend Engineer (React)
+- [ ] https://boards.greenhouse.io/hackerrank/jobs/3803362 | HackerRank | Senior Frontend Engineer (NodeJs + React) (Remote)
+
+<!-- === Greenhouse — Fullstack (2026-11-01) === -->
+- [ ] https://job-boards.greenhouse.io/flodesk/jobs/5382777008 | Flodesk | Senior Fullstack Engineer
+
+<!-- === Greenhouse — Solutions Engineer (2026-11-01) === -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746510005 | Glean | Solutions Engineer, LATAM
+- [ ] https://job-boards.greenhouse.io/stripe/jobs/8198323 | Stripe | Solutions Engineer, AI Build Team
+- [ ] https://boards.greenhouse.io/netlify/jobs/5784681002 | Netlify | Senior Solutions Engineer (Remote - US)
+
+<!-- === Greenhouse — Design Systems & DX (2026-11-01) === -->
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6233910004 | Mercury | Frontend Engineer - Design Systems
+- [ ] https://job-boards.greenhouse.io/cognite/jobs/4738129101 | Cognite | Senior Frontend Engineer, AI-Native Design System
+- [ ] https://job-boards.greenhouse.io/censys/jobs/8697130002 | Censys | Frontend Engineer
+
+<!-- === Lever — Senior Frontend (2026-11-01) === -->
+- [ ] https://jobs.lever.co/smart-working-solutions/58e13c26-c451-469a-8539-1168a37bc2e4 | Smart Working Solutions | Senior Frontend Engineer - React/Next.js & AWS
+- [ ] https://jobs.lever.co/coderio/5057a0ef-22e0-46fc-bddb-d75b470a6af7 | Coderio | Senior Full-Stack Developer (Node.js & React.js)
+
+<!-- === Lever — Solutions & Consulting (2026-11-01) === -->
+- [ ] https://jobs.lever.co/jobgether/c9b65227-e61d-49cd-8037-92a14842e1cb | Jobgether | Solutions Engineer, Lifecycle Studio
+- [ ] https://jobs.lever.co/sysdig/d9151343-521f-4dee-b97b-3fae67cac678 | Sysdig | Senior Customer Solutions Engineer (US East Coast)
+- [ ] https://jobs.lever.co/sysdig/5c6eeda8-a864-4d80-8de8-6884d49a5b71 | Sysdig | Senior Customer Solutions Engineer
+- [ ] https://jobs.lever.co/thinkahead/3595a68c-61a7-4d0c-91d4-914fa9803cbd | AHEAD | Principal Technical Consultant - AI/Cloud Platform Engineering
+
+<!-- === Workable — Frontend & Fullstack (2026-11-01) === -->
+- [ ] https://apply.workable.com/prox-works/j/8532B6EEC3 | Proximity Works | Senior Frontend Engineer (ReactJS)
+- [ ] https://apply.workable.com/bystadium/j/F8025415AA | Stadium | Senior Javascript Developer - React
+
+<!-- === Automation QA (2026-11-01) === -->
+- [ ] https://builtin.com/job/senior-qa-engineer-automation/3300235 | Built In | Senior QA Automation Engineer
+
+<!-- === Engineering Lead — Frontend (2026-11-01) === -->
+- [ ] https://www.arbeitnow.com/jobs/companies/recaregmbh/remote-tech-lead-agent-frontend-berlin-494037 | Recaregmbh | Tech Lead (Agent Frontend) — Berlin (remote)
+
+<!-- === RemoteFront — Frontend & Fullstack (2026-11-01) === -->
+- [ ] https://www.remotefront.com/remote-jobs/tomorrow-health-senior-full-stack-engineer-frontend-htdu6 | Tomorrow Health | Senior Full-Stack Engineer, Frontend
