@@ -1137,3 +1137,35 @@
 
 <!-- === RemoteFront — Frontend & Fullstack (2026-11-01) === -->
 - [ ] https://www.remotefront.com/remote-jobs/tomorrow-health-senior-full-stack-engineer-frontend-htdu6 | Tomorrow Health | Senior Full-Stack Engineer, Frontend
+
+<!-- === SCAN 2026-11-07 === -->
+
+<!-- === Lever — Qonto (2026-11-07) === -->
+- [ ] https://jobs.lever.co/qonto/92908ddb-870a-4a1d-8299-576d46fa0723 | Qonto | Senior Frontend Engineer (Remote friendly)
+- [ ] https://jobs.lever.co/qonto/518d6ea4-1521-4e6a-bb97-fe460832e5f2 | Qonto | Senior Frontend Engineer (Remote friendly)
+- [ ] https://jobs.lever.co/qonto/6df6c2b1-04ec-414e-8a05-bb3a226fb859 | Qonto | Frontend Team Lead (remote-friendly)
+- [ ] https://jobs.lever.co/qonto/73f667e2-e898-4262-9a71-c87547137d74 | Qonto | Frontend Team Manager
+- [ ] https://jobs.lever.co/qonto/8e9c22ba-f9d9-4021-8831-a008d3ac5292 | Qonto | Frontend Software Engineer (remote friendly)
+
+<!-- === Lever — Mistral AI (2026-11-07) === -->
+- [ ] https://jobs.lever.co/mistral/2d0ff193-e96e-43b0-b4e5-2121142965b3 | Mistral AI | Software Engineer, Fullstack/Frontend
+- [ ] https://jobs.lever.co/mistral/994b8bbf-2bee-4607-be8c-28305548075c | Mistral AI | Full-stack developer
+- [ ] https://jobs.lever.co/mistral/586bc657-f593-4a1e-90c6-06ca3838d5a5 | Mistral AI | Software Engineer, Front-end (Paris/London)
+
+<!-- === Lever — Spotify (2026-11-07) === -->
+- [ ] https://jobs.lever.co/spotify/c1629fd7-d15c-4931-ad59-d3d3592ae993 | Spotify | Full Stack Engineer - Music
+
+<!-- === Greenhouse — Intercom (2026-11-07) === -->
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7317849 | Intercom | Staff Frontend Platform Engineer
+
+<!-- === Greenhouse — Airtable (2026-11-07) === -->
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/7234009002 | Airtable | Software Engineer, Product Fullstack
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/7845265002 | Airtable | Software Engineer, Product Fullstack
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/7566758002 | Airtable | Software Engineer, Product Fullstack
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8409376002 | Airtable | Software Engineer, Product Fullstack
+
+<!-- === Greenhouse — Remote.com (2026-11-07) === -->
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/6620914003 | Remote.com | Frontend/Full Stack Engineer
+
+<!-- === Berlin — Senior Frontend (2026-11-07) === -->
+- [ ] https://www.ziprecruiter.de/jobs/574013111-senior-frontend-engineer-bei-clera | Clera | Senior Frontend Engineer — Berlin
