@@ -1169,3 +1169,34 @@
 
 <!-- === Berlin — Senior Frontend (2026-11-07) === -->
 - [ ] https://www.ziprecruiter.de/jobs/574013111-senior-frontend-engineer-bei-clera | Clera | Senior Frontend Engineer — Berlin
+
+<!-- === SCAN 2026-11-10 === -->
+<!-- URL verification unconfirmed — proxy policy blocks Playwright. Level 3 (WebSearch) only. -->
+
+<!-- === Lever — Qonto (2026-11-10) === -->
+- [ ] https://jobs.lever.co/qonto/21bf0ae1-b5b1-428a-b1e6-2cdb9476987e | Qonto | Full-Stack Engineer - People Products (Freelance)
+- [ ] https://jobs.lever.co/qonto/5e9f184e-0785-41d3-9a41-28b4dc317c87 | Qonto | Product Engineer - Accounting Domain (Frontend: React)
+- [ ] https://jobs.lever.co/qonto/489aaf09-447c-4a8a-b79d-bb65d0e568ef | Qonto | Engineering Manager - Accounting
+
+<!-- === Lever — Spotify (2026-11-10) === -->
+- [ ] https://jobs.lever.co/spotify/2344260b-477c-4086-b5a5-842dc4c587f0 | Spotify | Senior Fullstack Engineer - Messaging Platform
+
+<!-- === Lever — Pigment (2026-11-10) === -->
+- [ ] https://jobs.lever.co/pigment/ff8b5abc-29c2-4df2-8fb6-9c248fb9d2ba | Pigment | Engineering Manager - Frontend (France)
+
+<!-- === Lever — Mistral AI (2026-11-10) === -->
+- [ ] https://jobs.lever.co/mistral/de237900-114c-4e39-aa19-671bb3201eee | Mistral AI | Applied AI, Fullstack Software Engineer - Critical & Sovereign Institutions (Paris)
+- [ ] https://jobs.lever.co/mistral/5538042e-f157-4a2c-a9ee-e412de9ba761 | Mistral AI | Applied AI, Sr/Staff Fullstack Engineer (Singapore)
+
+<!-- === Greenhouse — Design Systems (2026-11-10) === -->
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/7868163 | Greenhouse | Senior UX Design Engineer, Design Systems
+
+<!-- === Greenhouse — Intercom (2026-11-10) === -->
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7276257 | Intercom | Unknown role — verify (from Frontend/Fullstack search)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7274793 | Intercom | Unknown role — verify (from Fullstack search)
+
+<!-- === Greenhouse — Airtable (2026-11-10) === -->
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/7882125002 | Airtable | Unknown role — verify (from Frontend/Fullstack search)
+
+<!-- === Greenhouse — Contentful (2026-11-10) === -->
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7769501 | Contentful | Unknown role — verify (from Frontend/Fullstack search)
