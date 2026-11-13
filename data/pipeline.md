@@ -1200,3 +1200,59 @@
 
 <!-- === Greenhouse — Contentful (2026-11-10) === -->
 - [ ] https://job-boards.greenhouse.io/contentful/jobs/7769501 | Contentful | Unknown role — verify (from Frontend/Fullstack search)
+
+<!-- === SCAN 2026-11-13 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Greenhouse — Senior Frontend (2026-11-13) === -->
+- [ ] https://job-boards.greenhouse.io/gametimeunited/jobs/5162273008 | Gametime | Senior Frontend Engineer (Web-first, Cross-Platform)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4670626006 | Chainguard | Senior Frontend Engineer
+- [ ] https://job-boards.greenhouse.io/afresh/jobs/6002919004 | Afresh | Senior Software Engineer, Frontend (React)
+- [ ] https://job-boards.greenhouse.io/recharge/jobs/8405088002 | Recharge | Senior Frontend Engineer
+- [ ] https://job-boards.greenhouse.io/humansignal/jobs/4630367004 | HumanSignal | Senior Frontend Engineer
+- [ ] https://job-boards.greenhouse.io/higherlogic/jobs/7658265003 | Higher Logic | Senior Front-End Developer (React)
+
+<!-- === Greenhouse — Staff Frontend (2026-11-13) === -->
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5708430004 | Grafana Labs | Staff Frontend Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5675071004 | Grafana Labs | Staff Frontend Engineer
+- [ ] https://job-boards.greenhouse.io/euclidpower/jobs/4643738006 | Euclid Power | Staff Software Engineer, Front End
+- [ ] https://job-boards.greenhouse.io/medium/jobs/4192903009 | Medium | Staff Frontend Engineer
+
+<!-- === Greenhouse — Fullstack (2026-11-13) === -->
+- [ ] https://job-boards.greenhouse.io/paperlesspost/jobs/7238270 | Paperless Post | Senior Software Engineer, Full-Stack
+- [ ] https://job-boards.greenhouse.io/bugcrowd/jobs/7420791 | Bugcrowd | Senior Full Stack Engineer (note: specific US states only)
+- [ ] https://job-boards.greenhouse.io/fluxx/jobs/4669473006 | Fluxx | Senior Fullstack Engineer
+- [ ] https://job-boards.greenhouse.io/seamlessai/jobs/5635504004 | Seamless.AI | Senior Growth Full-Stack Engineer
+
+<!-- === Greenhouse — Solutions Engineer (2026-11-13) === -->
+- [ ] https://job-boards.greenhouse.io/forethought/jobs/5394453004 | Forethought | Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/acquia/jobs/7521200 | Acquia | Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/yoodliinc/jobs/4107565009 | Yoodli | Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/processstreet/jobs/8093334002 | Process Street | Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/processstreet/jobs/8135992002 | Process Street | Solutions Engineer (Senior)
+- [ ] https://job-boards.greenhouse.io/rollstack/jobs/4812943008 | Rollstack | Senior Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5841147004 | Grafana Labs | Partner Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/humansignal/jobs/4990586004 | HumanSignal | Solutions Engineer
+
+<!-- === Greenhouse — Design System / Tech Lead (2026-11-13) === -->
+- [ ] https://job-boards.greenhouse.io/manychat/jobs/8433357002 | Manychat | Frontend Tech Lead, Design System (Barcelona)
+
+<!-- === Lever — Frontend & Fullstack (2026-11-13) === -->
+- [ ] https://jobs.lever.co/jobgether/3abb2c4e-a450-4957-aa4c-5ebe5cd7bdf3 | Jobgether | Senior Frontend Engineer
+- [ ] https://jobs.lever.co/jobgether/c5d8d766-d8ab-494a-8ef7-6a35f5537e8d | Jobgether | Sr. Staff Engineer (Fullstack/Frontend)
+- [ ] https://jobs.lever.co/jobgether/0fe54ea3-8aec-4872-9b0c-e792debff7b1 | Jobgether | Senior Frontend UX Engineer
+
+<!-- === Lever — Solutions Engineer (2026-11-13) === -->
+- [ ] https://jobs.lever.co/jobgether/7d8564f9-c230-4daa-b8d6-376b8bbb27d4 | Jobgether | Principal Software Solutions Engineer
+- [ ] https://jobs.lever.co/jobgether/c7bc2ae0-4dff-46f0-851d-659b2be5b677 | Jobgether | AI Solutions Engineer (Sales & Automation)
+- [ ] https://jobs.lever.co/jobgether/71c324d6-c01b-4eb4-b472-d818889f2c61 | Jobgether | Senior Solutions Engineering, Post-Sales
+
+<!-- === Wellfound (2026-11-13) === -->
+- [ ] https://wellfound.com/jobs/4521145-founding-full-stack-engineer | Astoria AI | Founding Full-Stack Engineer
+- [ ] https://wellfound.com/jobs/4495334-senior-frontend-engineer | Wordware | Senior Frontend Engineer
+
+<!-- === RemoteFront (2026-11-13) === -->
+- [ ] https://www.remotefront.com/remote-jobs/it-labs-senior-frontend-engineer-elfuq | IT Labs | Senior Frontend Engineer
+- [ ] https://www.remotefront.com/remote-jobs/jobgether-sr-frontend-developer-pjy09 | Jobgether | Sr. Frontend Developer
+- [ ] https://www.remotefront.com/remote-jobs/globaldev-group-frontend-developer-6dpt5 | Globaldev Group | Frontend Developer
