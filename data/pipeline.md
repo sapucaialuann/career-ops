@@ -1256,3 +1256,45 @@
 - [ ] https://www.remotefront.com/remote-jobs/it-labs-senior-frontend-engineer-elfuq | IT Labs | Senior Frontend Engineer
 - [ ] https://www.remotefront.com/remote-jobs/jobgether-sr-frontend-developer-pjy09 | Jobgether | Sr. Frontend Developer
 - [ ] https://www.remotefront.com/remote-jobs/globaldev-group-frontend-developer-6dpt5 | Globaldev Group | Frontend Developer
+
+<!-- === SCAN 2026-11-16 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Greenhouse — Senior Frontend (2026-11-16) === -->
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5614139004 | Grafana Labs | Senior Frontend Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5615998004 | Grafana Labs | Senior Frontend Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/7079740 | Greenhouse Software | Senior Software Engineer, Frontend
+
+<!-- === Greenhouse — Design Systems (2026-11-16) === -->
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/7862932 | Greenhouse Software | Senior UX Design Engineer, Design Systems
+
+<!-- === Greenhouse — Solutions Engineer (2026-11-16) === -->
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/7289942 | Customer.io | Presales Solutions Architect
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/6559667003 | Remote.com | Technical Solutions Consultant
+- [ ] https://boards.greenhouse.io/logicgate/jobs/4283407005 | LogicGate | Solutions Engineer (Americas)
+
+<!-- === Greenhouse — Fullstack (2026-11-16) === -->
+- [ ] https://job-boards.greenhouse.io/olympiacareers/jobs/4924371008 | Olympia Careers | Full Stack Senior Software Engineer
+- [ ] https://job-boards.greenhouse.io/corpaxe/jobs/4945636007 | Corpaxe | Senior Software Engineer, Full-Stack (TypeScript)
+
+<!-- === Lever — Senior Frontend (2026-11-16) === -->
+- [ ] https://jobs.lever.co/jobgether/4ffb2aa3-4dba-41e3-9257-cd0fbefa9e54 | Jobgether | Senior Software Engineer, Frontend Platform
+- [ ] https://jobs.lever.co/teamsnap/3764fbea-ddec-4d92-a673-2c2bd1737bde | TeamSnap | Staff Frontend Engineer
+- [ ] https://jobs.lever.co/ro/54c9a32f-7c6f-4b02-a971-c2404b20c428 | Ro | Senior Software Engineer, Frontend
+
+<!-- === Lever — Solutions (2026-11-16) === -->
+- [ ] https://jobs.lever.co/pigment/c75c7073-43d6-4b3e-993e-3b9ba7aab50b | Pigment | Technical Solutions Consultant
+
+<!-- === Wellfound (2026-11-16) === -->
+- [ ] https://wellfound.com/jobs/3095501-sr-frontend-developer | Sagetap | Sr. Frontend Developer
+- [ ] https://wellfound.com/jobs/4817377-senior-full-stack-engineer | Frank Darling | Senior Full Stack Engineer
+- [ ] https://wellfound.com/jobs/2750066-senior-frontend-engineer | Typeface | Senior Frontend Engineer
+- [ ] https://wellfound.com/jobs/3024004-sr-frontend-engineer | Fleek | Sr. Frontend Engineer
+
+<!-- === Workable (2026-11-16) === -->
+- [ ] https://apply.workable.com/remofirst/j/F9C7BCDD2C/ | Remofirst | Senior Front End Engineer
+
+<!-- === RemoteFront (2026-11-16) === -->
+- [ ] https://www.remotefront.com/remote-jobs/coderoad-senior-frontend-engineer-dkfg5 | CodeRoad | Senior Frontend Engineer
+- [ ] https://www.remotefront.com/remote-jobs/archy-senior-frontend-software-engineer-zw44a | Archy | Senior Frontend Software Engineer
