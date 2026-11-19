@@ -1298,3 +1298,70 @@
 <!-- === RemoteFront (2026-11-16) === -->
 - [ ] https://www.remotefront.com/remote-jobs/coderoad-senior-frontend-engineer-dkfg5 | CodeRoad | Senior Frontend Engineer
 - [ ] https://www.remotefront.com/remote-jobs/archy-senior-frontend-software-engineer-zw44a | Archy | Senior Frontend Software Engineer
+
+<!-- === SCAN 2026-11-19 === -->
+<!-- Note: URL verification unconfirmed — proxy policy blocks Playwright. Verify liveness before evaluating. -->
+<!-- Note: Greenhouse API (boards-api.greenhouse.io) blocked by proxy — Level 2 skipped. All results via WebSearch (Level 3). WebSearch results may be cached/stale. -->
+
+<!-- === Berlin Frontend === -->
+- [ ] https://jobs.b2venture.vc/companies/blacklane/jobs/69671349-senior-software-engineer-frontend | Blacklane | Senior Software Engineer, Frontend
+
+<!-- === Berlin Fullstack === -->
+- [ ] https://www.indexventures.com/startup-jobs/taxfix/senior-software-engineer-fullstack-dfm-2 | Taxfix | Senior Software Engineer - FullStack (d/f/m)
+
+<!-- === Workable — QA Automation === -->
+- [ ] https://apply.workable.com/spd-technology/j/8F0C9101A7/ | SPD Technology | Senior QA Automation Engineer
+
+<!-- === Lever — QA Automation === -->
+- [ ] https://jobs.lever.co/formstack/2c4f7e4d-2da9-43f8-9b74-b8be0068cba1 | Formstack | Senior QA Automation Engineer
+
+<!-- === Berlin Tech Lead === -->
+- [ ] https://www.indexventures.com/startup-jobs/raisin/engineering-lead-frontend-mobile-platform-mfd-1 | Raisin | Engineering Lead, Frontend & Mobile Platform
+- [ ] https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-tech-lead-agent-frontend-berlin-343544 | Recare | Tech Lead, Agent Frontend
+- [ ] https://jobs.accel.com/companies/synthflow/jobs/53259722-staff-frontend-software-engineer | Synthflow | Staff Frontend Software Engineer
+
+<!-- === RemoteFront — Frontend & Fullstack === -->
+- [ ] https://www.remotefront.com/remote-jobs/coderoad-senior-react-engineer-t0oov | CodeRoad | Senior React Engineer
+- [ ] https://www.remotefront.com/remote-jobs/truv-senior-frontend-engineer-a2l5r | Truv | Senior Frontend Engineer
+- [ ] https://www.remotefront.com/remote-jobs/mwdn-senior-front-end-developer-react-claude-code-7h0qr | MWDN | Senior Front-End Developer (React)
+- [ ] https://www.remotefront.com/remote-jobs/innovecs-senior-frontend-developer-react-0c38c | Innovecs | Senior Frontend Developer (React)
+- [ ] https://www.remotefront.com/remote-jobs/comfrt-senior-front-end-developer-f63do | Comfrt | Senior Front-End Developer
+
+<!-- === Targeted: n8n === -->
+- [ ] https://startup.jobs/senior-frontend-platform-engineer-n8n-8751282 | n8n | Senior Frontend Platform Engineer
+
+<!-- === Targeted: Attio === -->
+- [ ] https://resuminder.com/jobs/10924-senior-product-engineer-frontend-at-attio | Attio | Senior Product Engineer, Frontend
+
+<!-- === Targeted: Tinybird === -->
+- [ ] https://tinybird.co/job-offers/front-end-web-developer-201881 | Tinybird | Front-End Web Developer
+
+<!-- === Targeted: Lovable === -->
+- [ ] https://lovable.dev/careers/fullstack-engineer-cloud-and-app-hosting-4a2535 | Lovable | Fullstack Engineer - Cloud and App Hosting
+- [ ] https://resumegeni.com/jobs/platform-engineer-developer-experience-at-lovable-stockholm | Lovable | Platform Engineer - Developer Experience
+
+<!-- === Targeted: Synthesia === -->
+- [ ] https://resumegeni.com/jobs/webflow-developer-front-end-engineer-at-synthesia-london | Synthesia | Webflow Developer / Front-End Engineer
+- [ ] https://resumegeni.com/jobs/software-engineer-front-end-leaning-accessibility-at-synthesia-europe | Synthesia | Software Engineer, Front End Leaning (Accessibility)
+
+<!-- === Targeted: DeepL === -->
+- [ ] https://peerlist.io/company/deepl563/careers/fullstack-software-engineer--frontend/jobh8oeoebj8nprrahdon7apk7g7ao | DeepL | Fullstack Software Engineer, Frontend
+
+<!-- === Targeted: Deel === -->
+- [ ] https://jobgether.com/offer/69aee7ac24d79271eeffb22a-senior-full-stack-engineer | Deel | Senior Full-Stack Engineer
+- [ ] https://jobgether.com/offer/69c6a2c100fd4c48a1997488-full-stack-engineer-react-node.js | Deel | Full-Stack Engineer (React/Node.js)
+- [ ] https://jobs.a16z.com/jobs/deel/4cb753bf-7e6b-412b-8192-d7bf6fbc0bf2--senior-frontend-engineer | Deel | Senior Frontend Engineer
+
+<!-- === Targeted: Spotify === -->
+- [ ] https://jobs.lever.co/spotify/9899871a-4307-4367-9f74-039569d7a650 | Spotify | Full Stack Engineer - Music
+- [ ] https://jobs.lever.co/spotify/d1df9e53-27a1-4399-aa8b-7144cf634360 | Spotify | Senior Fullstack Engineer (Platform)
+
+<!-- === Targeted: Pigment === -->
+- [ ] https://jobs.lever.co/pigment/a6d45343-dbcc-4e5f-b4de-5db62af4886a | Pigment | Software Engineering Manager (Hands-On, Frontend)
+
+<!-- === Targeted: Vinted === -->
+- [ ] https://jobs.accel.com/companies/vinted-2/jobs/86595926-director-of-engineering-frontend-technologies-marketplace-limited-time-relocation-bonus | Vinted | Director of Engineering, Frontend Technologies
+
+<!-- === Targeted: Mistral === -->
+- [ ] https://jobs.lever.co/mistral/e13149dd-25b0-47e4-92b9-f648c699ce85 | Mistral AI | UX/UI Front-End Engineer
+- [ ] https://jobgether.com/offer/69df2299c646310ee38ef301-mistral-cloud---software-engineer-fullstack-frontend | Mistral AI | Mistral Cloud - Software Engineer, Fullstack/Frontend
